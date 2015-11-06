@@ -87,40 +87,42 @@ def adding_units (breakout_entry, N, max_unit, gap_flag):
 
 # All stops for the entire position would be palced at 2 N from the recently added unit 
 def stop_positon (entries, N, gap_flag):
-	half_N = N / 2 
+	two_N = N * 2 
+	half_N = float(N / 2) 
+	stop_list = []
 	if gap_flag == False:
 		max_price = max(entries)
-		stop = max_price - half_N
-		return [stop] * len (entries)
+		stop = max_price - two_N
+		stop_list = [stop] * len (entries)
 	else:
-		stop_list = []
 		size = len (entries)
 		prev = 0
 		first_gap = 0
+		curr_idx = 0
 		for i in range (0, size):
+			# print(first_gap)
+			curr_idx = i
+			stop = entries[i] - two_N
+			stop_list.append(stop)
 			if i == 0: 
 				# First unit 
-				stop = entries[0] - half_N
-				stop_list.append(stop)
-				prev = entries[0]
 				first_gap = 0 
-			else:
-				if (entries[i] - prev) != half_N:
-					# There has to be a gap 
-					stop = entries[i] - half_N
-					stop_list.append(stop)
-					prev = entries[i]
-					first_gap = i 
-				else:
-					stop = entries[i] - half_N
-					stop_list.append(stop)
-					prev = entries[i]
+			elif round ((entries[i] - prev), 10) != half_N:
+				# There has to be a gap 
+				first_gap = i 
 
+			stop_list = update_entry (stop_list, first_gap, curr_idx)
+			prev = entries[i]
 
-def update_entry (stop_list, curr_idx, last_gap):
-	for idx in range(last_gap, curr_idx): 
+	return stop_list
 
+def update_entry (stop_list, first_gap, curr_idx):
+	# print (first_gap, curr_idx)
+	curr_stop = stop_list[curr_idx]
+	for idx in range(first_gap, curr_idx): 
+		stop_list[idx] = curr_stop
 
+	return stop_list
 
 # TO-DO: write function according to dataset
 def prev_20 (data):
@@ -134,7 +136,10 @@ def prev_55 (data):
 	low = 0 
 	return high, low
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
+	entries = [28.30, 28.90, 29.50, 30.80, 31.40, 32.00]
+	stop_list = stop_positon(entries, 1.2, True)
+	print stop_list
 	# arg = sys.argv
 	# filename = arg[1]
 	# filedir = "./data/" + filename
