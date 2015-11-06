@@ -60,6 +60,3 @@ if __name__ == '__main__':
 	print ("--------------------------------")
 
 	print 
-
-
-	# prev_20 (curr_date, date_dict, df)
