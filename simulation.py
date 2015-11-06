@@ -25,7 +25,8 @@ def setup (df):
 
 if __name__ == '__main__':
 	arg = sys.argv
-	filename = arg[1]
+	# filename = arg[1]
+	filename = "alibaba.csv"
 	filedir = "./data/" + filename
 	df = pd.read_csv(filedir)
 	tr_list, n_list, date_dict, dates = setup(df)
