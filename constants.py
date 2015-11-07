@@ -1,0 +1,13 @@
+PRECISION = 2
+LONG = "long"
+SHORT = "short"
+NO_STRATEGY = "no_strategy"
+TICK_SIZE = 0.01
+MAX_UNIT = 4
+DAY_20_BREAKOUT = "20"
+DAY_55_BREAKOUT = "55"
+NOT_ENOUGH_DATA = -1 
+NONE = "none"
+DAY_20 = 20
+DAY_55 = 55
+DAY_10_EXIT = 10

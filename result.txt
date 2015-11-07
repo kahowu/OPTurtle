@@ -75,9 +75,7 @@ System 1: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[92.25, 93.83, 95.41, 96.99]
-[90.67, 92.25, 93.83, 95.41]
-Given $ 1000000, buy 4 turtle units (136 shares) to initiate long position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (1372 shares) to initiate long position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -281,9 +279,7 @@ System 1: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[119.3, 121.17, 123.04, 124.91]
-[117.43, 119.3, 121.17, 123.04]
-Given $ 1000000, buy 4 turtle units (88 shares) to initiate long position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (896 shares) to initiate long position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -478,9 +474,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[105.97, 107.72, 109.47, 111.22]
-[107.72, 109.47, 111.22, 112.97]
-Given $ 1000000, buy 4 turtle units (104 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (1076 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -493,9 +487,7 @@ Previous breakout was winner. Make 55-day breakout entry to avoid missing major 
 
 
 -------- Final decision --------
-[102.27, 104.1, 105.93, 107.76]
-[104.1, 105.93, 107.76, 109.59]
-Given $ 1000000, buy 4 turtle units (104 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1068 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -557,9 +549,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[103.75, 105.58, 107.41, 109.24]
-[105.58, 107.41, 109.24, 111.07]
-Given $ 1000000, buy 4 turtle units (104 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (1052 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -704,9 +694,7 @@ Previous breakout was winner. Make 55-day breakout entry to avoid missing major 
 
 
 -------- Final decision --------
-[102.76, 104.35, 105.94, 107.53]
-[104.35, 105.94, 107.53, 109.12]
-Given $ 1000000, buy 4 turtle units (120 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1224 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -791,9 +779,7 @@ Previous breakout was winner. Make 55-day breakout entry to avoid missing major 
 
 
 -------- Final decision --------
-[99.28, 100.81, 102.35, 103.88]
-[100.81, 102.34, 103.88, 105.41]
-Given $ 1000000, buy 4 turtle units (128 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1312 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -819,9 +805,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[96.09, 97.63, 99.17, 100.71]
-[97.63, 99.17, 100.71, 102.25]
-Given $ 1000000, buy 4 turtle units (132 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1348 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -919,9 +903,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[90.53, 92.28, 94.03, 95.78]
-[92.28, 94.03, 95.78, 97.53]
-Given $ 1000000, buy 4 turtle units (124 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (1260 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -935,9 +917,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[89.6, 91.36, 93.12, 94.88]
-[91.36, 93.12, 94.88, 96.64]
-Given $ 1000000, buy 4 turtle units (124 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1268 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1047,9 +1027,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[85.6, 87.12, 88.65, 90.17]
-[87.13, 88.65, 90.18, 91.7]
-Given $ 1000000, buy 4 turtle units (152 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1532 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1147,9 +1125,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[84.38, 85.67, 86.96, 88.25]
-[85.67, 86.96, 88.25, 89.54]
-Given $ 1000000, buy 4 turtle units (180 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1836 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1199,9 +1175,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[82.95, 84.21, 85.47, 86.73]
-[84.21, 85.47, 86.73, 87.99]
-Given $ 1000000, buy 4 turtle units (188 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1912 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1215,9 +1189,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[80.27, 81.61, 82.95, 84.29]
-[81.61, 82.95, 84.29, 85.63]
-Given $ 1000000, buy 4 turtle units (184 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1856 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1267,9 +1239,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[81.09, 82.4, 83.72, 85.03]
-[82.41, 83.72, 85.03, 86.34]
-Given $ 1000000, buy 4 turtle units (184 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (1872 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1523,9 +1493,7 @@ System 1: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[87.03, 88.09, 89.15, 90.21]
-[85.97, 87.03, 88.09, 89.15]
-Given $ 1000000, buy 4 turtle units (216 shares) to initiate long position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2168 shares) to initiate long position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1539,9 +1507,7 @@ System 1: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[86.68, 87.75, 88.82, 89.89]
-[85.61, 86.68, 87.75, 88.82]
-Given $ 1000000, buy 4 turtle units (212 shares) to initiate long position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2156 shares) to initiate long position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1723,9 +1689,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[81.03, 82.03, 83.03, 84.03]
-[82.03, 83.03, 84.03, 85.03]
-Given $ 1000000, buy 4 turtle units (244 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2468 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1751,9 +1715,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[80.44, 81.46, 82.47, 83.49]
-[81.45, 82.47, 83.48, 84.5]
-Given $ 1000000, buy 4 turtle units (244 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2448 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1779,9 +1741,7 @@ System 1: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[88.83, 90.01, 91.19, 92.37]
-[87.65, 88.83, 90.01, 91.19]
-Given $ 1000000, buy 4 turtle units (188 shares) to initiate long position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (1908 shares) to initiate long position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1795,9 +1755,7 @@ System 2: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[87.82, 89.0, 90.18, 91.36]
-[86.64, 87.82, 89.0, 90.18]
-Given $ 1000000, buy 4 turtle units (192 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1928 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1835,9 +1793,7 @@ System 2: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[87.08, 88.2, 89.32, 90.44]
-[85.96, 87.08, 88.2, 89.32]
-Given $ 1000000, buy 4 turtle units (204 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2048 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1851,9 +1807,7 @@ System 2: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[87.74, 88.83, 89.92, 91.01]
-[86.65, 87.74, 88.83, 89.92]
-Given $ 1000000, buy 4 turtle units (208 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2088 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1867,9 +1821,7 @@ System 2: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[88.51, 89.57, 90.63, 91.69]
-[87.45, 88.51, 89.57, 90.63]
-Given $ 1000000, buy 4 turtle units (212 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2128 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1919,9 +1871,7 @@ System 2: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[91.35, 92.49, 93.63, 94.77]
-[90.21, 91.35, 92.49, 93.63]
-Given $ 1000000, buy 4 turtle units (192 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1920 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -1935,9 +1885,7 @@ System 2: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[94.28, 95.41, 96.54, 97.67]
-[93.15, 94.28, 95.41, 96.54]
-Given $ 1000000, buy 4 turtle units (184 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1876 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2119,9 +2067,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[86.3, 87.3, 88.3, 89.3]
-[87.3, 88.3, 89.3, 90.3]
-Given $ 1000000, buy 4 turtle units (228 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2316 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2134,9 +2080,7 @@ Previous breakout was winner. Make 55-day breakout entry to avoid missing major 
 
 
 -------- Final decision --------
-[86.0, 86.98, 87.95, 88.93]
-[86.97, 87.95, 88.92, 89.91]
-Given $ 1000000, buy 4 turtle units (236 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2384 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2233,9 +2177,7 @@ Previous breakout was winner. Make 55-day breakout entry to avoid missing major 
 
 
 -------- Final decision --------
-[84.63, 85.51, 86.39, 87.27]
-[85.51, 86.39, 87.27, 88.15]
-Given $ 1000000, buy 4 turtle units (268 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2684 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2296,9 +2238,7 @@ Previous breakout was winner. Make 55-day breakout entry to avoid missing major 
 
 
 -------- Final decision --------
-[80.56, 81.43, 82.31, 83.18]
-[81.44, 82.31, 83.19, 84.06]
-Given $ 1000000, buy 4 turtle units (280 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2836 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2312,9 +2252,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[79.45, 80.38, 81.31, 82.24]
-[80.38, 81.31, 82.24, 83.17]
-Given $ 1000000, buy 4 turtle units (268 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2704 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2328,9 +2266,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[76.58, 77.55, 78.52, 79.49]
-[77.55, 78.52, 79.49, 80.46]
-Given $ 1000000, buy 4 turtle units (268 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2692 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2632,9 +2568,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[72.32, 73.42, 74.53, 75.64]
-[73.42, 74.53, 75.64, 76.75]
-Given $ 1000000, buy 4 turtle units (248 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2500 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2696,9 +2630,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[73.15, 74.19, 75.22, 76.26]
-[74.19, 75.22, 76.25, 77.3]
-Given $ 1000000, buy 4 turtle units (264 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2640 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2712,9 +2644,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[71.98, 73.04, 74.1, 75.16]
-[73.04, 74.1, 75.16, 76.22]
-Given $ 1000000, buy 4 turtle units (260 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2620 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2728,9 +2658,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[69.32, 70.39, 71.46, 72.53]
-[70.39, 71.46, 72.53, 73.6]
-Given $ 1000000, buy 4 turtle units (268 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2696 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2744,9 +2672,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[58.16, 59.43, 60.7, 61.97]
-[59.43, 60.7, 61.97, 63.24]
-Given $ 1000000, buy 4 turtle units (268 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2704 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -2820,9 +2746,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[64.38, 65.74, 67.1, 68.46]
-[65.74, 67.1, 68.46, 69.82]
-Given $ 1000000, buy 4 turtle units (228 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2284 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -3016,9 +2940,7 @@ System 2: Sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[59.42, 60.78, 62.14, 63.5]
-[60.78, 62.14, 63.5, 64.86]
-Given $ 1000000, buy 4 turtle units (244 shares) to initiate short position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2472 shares) to initiate short position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -3044,9 +2966,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[58.81, 60.16, 61.5, 62.85]
-[60.16, 61.5, 62.84, 64.2]
-Given $ 1000000, buy 4 turtle units (252 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2528 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -3060,9 +2980,7 @@ System 1: sell one unit to initiate a short position
 
 
 -------- Final decision --------
-[57.3, 58.61, 59.93, 61.24]
-[58.61, 59.92, 61.24, 62.55]
-Given $ 1000000, buy 4 turtle units (264 shares) to initiate short position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2652 shares) to initiate short position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -3172,9 +3090,7 @@ System 1: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[69.64, 70.91, 72.19, 73.46]
-[68.36, 69.63, 70.91, 72.18]
-Given $ 1000000, buy 4 turtle units (224 shares) to initiate long position with 20-day breakout
+Given $ 10000000, buy 4 turtle units (2252 shares) to initiate long position with 20-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -3223,9 +3139,7 @@ Previous breakout was winner. Make 55-day breakout entry to avoid missing major 
 
 
 -------- Final decision --------
-[72.5, 73.78, 75.07, 76.35]
-[71.22, 72.5, 73.78, 75.06]
-Given $ 1000000, buy 4 turtle units (212 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2144 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -3250,9 +3164,7 @@ Previous breakout was winner. Make 55-day breakout entry to avoid missing major 
 
 
 -------- Final decision --------
-[72.99, 74.22, 75.46, 76.69]
-[71.75, 72.98, 74.22, 75.45]
-Given $ 1000000, buy 4 turtle units (220 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2216 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -3289,9 +3201,7 @@ Previous breakout was winner. Make 55-day breakout entry to avoid missing major 
 
 
 -------- Final decision --------
-[73.98, 75.27, 76.56, 77.85]
-[72.69, 73.98, 75.27, 76.56]
-Given $ 1000000, buy 4 turtle units (208 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (2092 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -3329,9 +3239,7 @@ System 2: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[79.48, 80.88, 82.27, 83.67]
-[78.09, 79.48, 80.88, 82.28]
-Given $ 1000000, buy 4 turtle units (180 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1800 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################
@@ -3357,9 +3265,7 @@ System 2: Buy one unit to initiate a long position
 
 
 -------- Final decision --------
-[82.7, 84.05, 85.41, 86.76]
-[81.34, 82.69, 84.05, 85.41]
-Given $ 1000000, buy 4 turtle units (176 shares) to initiate long position with 55-day breakout
+Given $ 10000000, buy 4 turtle units (1784 shares) to initiate long position with 55-day breakout
 -------- Final decision --------
 
 #####################################################################

@@ -19,14 +19,6 @@ import sys
 from stop import *
 from constants import *
 
-class BreakoutEntry:
-	def __init__(self, entry_price, stop_price, strategy_type, entry_date, unit_size):
-		self.entry_price = entry_price
-		self.stop_price = stop_price
-		self.strategy_type = strategy_type
-		self.entry_date = entry_date
-		self.unit_size = unit_size
-
 class OPTurtle:
 	def __init__ (self, data):
 		self.data = data 
@@ -36,6 +28,11 @@ class OPTurtle:
 		self.date_dict = dict()
 		self.dates = []
 		self.data_size = len (data)
+
+	def get_unit_size (self, curr_price, curr_N, portfolio):
+		dv = self.dollar_volatility (curr_price, curr_N)
+		unit_size = self.vadj_unit (portfolio.equity, dv)
+		return unit_size
 
 	def setup (self):
 		self.create_date_dict ()
