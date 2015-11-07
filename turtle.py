@@ -157,6 +157,7 @@ def find_last_breakout (curr_date, bo_list, date_dict, strategy_type):
 
 	return last_bo
 
+# Check if the last breakout is a winning trade 
 def is_loser_breakout (last_bo, date_dict, n_list, df):
 	bo_date = last_bo[0]
 	bo_price = last_bo[1]
@@ -169,7 +170,7 @@ def is_loser_breakout (last_bo, date_dict, n_list, df):
 		for i in range (1,10):
 			curr_row = df.iloc[bo_idx + i]
 			curr_price = curr_row["Close"]
-			if ((bo_price  - (2 * bo_N)) >= curr_price):
+			if np.subtract (bo_price, (2 * bo_N)) >= curr_price:
 				return True 
 	else: 
 		# Check position before 10 day exit
@@ -232,15 +233,17 @@ def sys_2_entry (curr_price, curr_date, date_dict, df):
 
 def adding_units (breakout_entry, N, max_unit, gap_flag):
 	entries = []
-	curr = breakout_entry
-	half_N = N / 2 
+	curr = round(breakout_entry, PRECISION)
+	half_N = np.divide (N, 2)
+	
 	if gap_flag == False:
 		for i in range (0, max_unit):
 			if i == 0: 
 				entries.append(curr)
 			else: 
-				curr += half_N
-				entries.append(curr)
+				# curr += half_N
+				curr = np.add (curr, half_N)
+				entries.append(round(curr, PRECISION))
 
 		return entries
 
