@@ -20,12 +20,46 @@ from stop import *
 from constants import *
 
 class BreakoutEntry:
-	def __init__(self, entry_price, stop_price, strategy_type, entry_date, unit_size):
+	def __init__(self, entry_price, stop_price, entry_date, strategy_type, unit_size):
 		self.entry_price = entry_price
 		self.stop_price = stop_price
 		self.strategy_type = strategy_type
 		self.entry_date = entry_date
 		self.unit_size = unit_size
+
+class Portfolio:
+	def __init__(self, equity):
+		self.equity = equity
+		self.inventory = []
+		self.sys_1_entries = 0 
+		self.sys_2_entries = 0
+		self.inv_size = MAX_INVENTORY_SIZE
+
+	def add_unit (self, entry_obj):
+		if (entry_obj.strategy_type == SYS_1_LONG) or (entry_obj.strategy_type == SYS_1_SHORT):
+			self.sys_1_entries += 1
+		else:
+			self.sys_2_entries += 1
+
+		total_price = entry_obj.entry_price * entry_obj.unit_size
+		new_equity = round((self.equity - total_price), PRECISION)
+		self.update_equity (new_equity)
+		self.inventory.append (entry_obj)
+
+
+	def remove_unit (self, entry_obj, exit_price):
+		if (entry_obj.strategy_type == SYS_1_LONG) or (entry_obj.strategy_type == SYS_1_SHORT):
+			self.sys_1_entries -= 1
+		else:
+			self.sys_2_entries -= 1
+
+		total_price = exit_price * entry_obj.unit_size
+		new_equity = round((self.equity + total_price), PRECISION)
+		self.update_equity (new_equity)
+		self.inventory.remove (entry_obj)
+
+	def update_equity (self, new_equity):
+		self.equity = new_equity
 
 class OPTurtle:
 	def __init__ (self, data):
@@ -42,6 +76,11 @@ class OPTurtle:
 		self.generate_tr_list ()
 		self.generate_n_list ()
 		self.generate_bo_list ()
+
+	def get_unit_size (self, curr_price, curr_N, portfolio):
+		dv = self.dollar_volatility (curr_price, curr_N)
+		unit_size = self.vadj_unit (portfolio.equity, dv)
+		return unit_size
 
 	def create_date_dict (self):
 		data = self.data
@@ -169,7 +208,7 @@ class OPTurtle:
 	# Check if the last breakout is a winning trade 
 	def is_loser_breakout (self, last_bo):
 		if last_bo is None:
-			print "No breakout yet"
+			# print "No breakout yet"
 			return True
 
 		date_dict = self.date_dict
@@ -206,6 +245,28 @@ class OPTurtle:
 			
 		return False
 
+	# Check if the curent price is lower than previous 20 days
+	def is_x_day_low (self, curr_price, curr_date, exit_type):
+		date_dict = self.date_dict 
+		data = self.data
+		curr_idx = date_dict[curr_date]
+		row = data.iloc[curr_idx - exit_type: curr_idx] #
+		lowest = min(row ["Close"])
+		if curr_price < lowest:
+			return True
+		return False
+
+	# Check if the curent price is higher than previous 20 days
+	def is_x_day_high (self, curr_price, curr_date, exit_type):
+		date_dict = self.date_dict 
+		data = self.data
+		curr_idx = date_dict[curr_date]
+		row = data.iloc[curr_idx - exit_type: curr_idx] #
+		highest = max(row ["Close"])
+		if curr_price > highest:
+			return True
+		return False
+
 	# Get high-low for previous 20 days
 	def prev_20 (self, curr_date):
 		date_dict = self.date_dict
@@ -213,9 +274,9 @@ class OPTurtle:
 		data = self.data 
 		if idx >= 20: 
 			row = data.iloc[idx - 20: idx]
-			high = max(row ["Close"])
-			low = min(row ["Close"])
-			return high, low
+			highest = max(row ["Close"])
+			lowest = min(row ["Close"])
+			return highest, lowest
 		else:
 			print "Not enough data for previous 20 days!"
 
@@ -227,9 +288,9 @@ class OPTurtle:
 		data = self.data 
 		if idx >= 55: 
 			row = data.iloc[idx - 55: idx]
-			high = max(row ["Close"])
-			low = min(row ["Close"])
-			return high, low
+			highest = max(row ["Close"])
+			lowest = min(row ["Close"])
+			return highest, lowest
 		else:
 			print "Not enough data for previous 55 days!"
 
@@ -241,118 +302,30 @@ class OPTurtle:
 
 		return True
 
-	# Shorter-term system based on a 20-day breakout 
-	# If the last breakout was a loser, then entry signal -> 20-day breakout
-	# If the last breakout was a winner, then entry signal -> 55-day breakout
-	def sys_1_entry (self, curr_date, curr_price):
-		if self.validate_date (curr_date, DAY_20):
-			high, low = self.prev_20 (curr_date)
-		else:
-			print ("No strategy")
-			return NO_STRATEGY, NONE
+	def should_exit (self, entry, curr_price, curr_date, exit_type):
+		strategy_type = entry.strategy_type
+		entry_price = entry.entry_price
 
-		if curr_price >= (high + TICK_SIZE):
-			print ("Initiate long position...")
-			last_bo = self.find_last_breakout (curr_date, LONG)
-			# Check to see if last breakout was a losing breakout
-			if self.is_loser_breakout (last_bo): 
-				print ("Last breakout was a losing trade")
-				print ("System 1: Buy one unit to initiate a long position")
-				return LONG, DAY_20_BREAKOUT
-			else:
-				if self.validate_date (curr_date, DAY_55):
-					print ("Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...")
-					self.sys_2_entry (curr_date, curr_price) # Fail safe breakout point
-					return LONG, DAY_55_BREAKOUT
-				else:
-					print ("No strategy")
-					return NO_STRATEGY, NONE
+		if (strategy_type == SYS_1_LONG) or (strategy_type == SYS_2_LONG):
+			if self.is_x_day_low (curr_price, curr_date, exit_type) and (curr_price > entry_price):
+				# print ("Exit for long position")
+				return True
 
+		elif (strategy_type == SYS_1_SHORT) or (strategy_type == SYS_2_SHORT):
+			if self.is_x_day_high (curr_price, curr_date, exit_type) and (curr_price < entry_price):
+				# print ("Exit for short position")
+				return True 
+	
+		return False
 
-
-		elif curr_price <= (low - TICK_SIZE):
-			print ("Initiate short position...")
-			last_bo = self.find_last_breakout (curr_date, SHORT)			
-			if self.is_loser_breakout (last_bo):
-				print ("Last breakout was a losing trade")
-				print ("System 1: sell one unit to initiate a short position")
-				return SHORT, DAY_20_BREAKOUT
-			else:
-				if self.validate_date (curr_date, DAY_55):
-					print ("Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...")
-					self.sys_2_entry (curr_date, curr_price) # Fail safe breakout point
-					return SHORT, DAY_55_BREAKOUT
-				else:
-					print ("No strategy")
-					return NO_STRATEGY, NONE
-		
-		else:
-			print ("No strategy")
-			return NO_STRATEGY, NONE
-
-
-	# A simpler long-term system based on a 55-day breakout 
-	def sys_2_entry (self, curr_date, curr_price):
-		high, low = self.prev_55 (curr_date)
-		if curr_price >= (high + TICK_SIZE):
-			print ("System 2: Buy one unit to initiate a long position")
-
-		elif curr_price <= (low - TICK_SIZE):
-			print ("System 2: Sell one unit to initiate a short position")
-
-	# Add trading units at breakout price
-	def adding_units (self, breakout_price, N, gap_flag):
-		entries = []
-		curr_price = breakout_price
-		half_N = np.divide (N, 2)
-		
-		if gap_flag == False:
-			for i in range (0, MAX_UNIT):
-				if i == 0: 
-					entries.append(round(curr_price, PRECISION))
-				else: 
-					curr_price = np.add (curr_price, half_N)
-					entries.append(round(curr_price, PRECISION))
-
-			return entries
-
-	def suggest_strategy (self, curr_date, equity):
-
-		date_dict = self.date_dict
-		data = self.data
-		n_list = self.n_list
-
-		if date_dict[curr_date] < 21:
-			return "Not enough data"
-
-		unit_list = []
-		stop_list = [] 
-
-
-		curr_idx = date_dict[curr_date]
-		curr_N = n_list[curr_idx]
-		curr_row = data.iloc[curr_idx]
-		curr_price = curr_row["Open"]
-
-		print 
-		print ("-------- Trade strategy --------")
-		position, breakout_type = self.sys_1_entry(curr_date, curr_price)
-		dv = self.dollar_volatility (curr_price, curr_N)
-		unit_size = self.vadj_unit (equity, dv)
-		print ("--------------------------------")
-		print
-
-		print
-		print ("-------- Final decision --------")
-		if (position != NO_STRATEGY):
-			unit_list = self.adding_units (curr_price, curr_N, False)
-			stop_list = stop_strategy_2 (unit_list, curr_N, position)
-			print ("Given $ {}, buy {} turtle units ({} shares) to initiate {} position with {}-day breakout".format(equity, MAX_UNIT, unit_size * MAX_UNIT
-				, position, breakout_type))
-		else:
-			print ("No decision is made")
-		print ("-------- Final decision --------")
-		print
+	def should_stop (self, entry, curr_price):
+		strategy_type = entry.strategy_type
+		if strategy_type == LONG:
+			# If current price is lower or equal to stop price, stop
+			return (entry.stop_price >= curr_price)
+		elif strategy_type == SHORT:
+			# If current price is greater or equal to stop price, stop
+			return (entry.stop_price <= curr_price)
 
 
 def read_data (arg):

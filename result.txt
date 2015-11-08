@@ -1,3295 +1,465 @@
-#################### The chosen date is 14-09-19 ####################
-#####################################################################
-#################### The chosen date is 14-09-22 ####################
-#####################################################################
-#################### The chosen date is 14-09-23 ####################
-#####################################################################
-#################### The chosen date is 14-09-24 ####################
-#####################################################################
-#################### The chosen date is 14-09-25 ####################
-#####################################################################
-#################### The chosen date is 14-09-26 ####################
-#####################################################################
-#################### The chosen date is 14-09-29 ####################
-#####################################################################
-#################### The chosen date is 14-09-30 ####################
-#####################################################################
-#################### The chosen date is 14-10-01 ####################
-#####################################################################
-#################### The chosen date is 14-10-02 ####################
-#####################################################################
-#################### The chosen date is 14-10-03 ####################
-#####################################################################
-#################### The chosen date is 14-10-06 ####################
-#####################################################################
-#################### The chosen date is 14-10-07 ####################
-#####################################################################
-#################### The chosen date is 14-10-08 ####################
-#####################################################################
-#################### The chosen date is 14-10-09 ####################
-#####################################################################
-#################### The chosen date is 14-10-10 ####################
-#####################################################################
-#################### The chosen date is 14-10-13 ####################
-#####################################################################
-#################### The chosen date is 14-10-14 ####################
-#####################################################################
-#################### The chosen date is 14-10-15 ####################
-#####################################################################
-#################### The chosen date is 14-10-16 ####################
-#####################################################################
-#################### The chosen date is 14-10-17 ####################
-#####################################################################
-#################### The chosen date is 14-10-20 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-10-21 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-10-22 ####################
-
--------- Trade strategy --------
-Initiate long position...
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
+Not enough days to do analysis!
 No breakout yet
-Last breakout was a losing trade
-System 1: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1372 shares) to initiate long position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-10-23 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-10-24 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-10-27 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-10-28 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-10-29 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-10-30 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-10-31 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-03 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-04 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-05 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-06 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-07 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-10 ####################
-
--------- Trade strategy --------
-Initiate long position...
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-11 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-12 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-13 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Last breakout was a losing trade
-System 1: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (896 shares) to initiate long position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-14 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-17 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-18 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-19 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-20 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-21 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-24 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-25 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-26 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-11-28 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-01 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-03 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-04 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-05 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-08 ####################
-
--------- Trade strategy --------
-Initiate short position...
+After adding unit 995256.55
+After adding unit 990425.95
+After adding unit 985508.2
+After adding unit 980503.3
+After adding unit 975412.08
+After adding unit 970233.71
+After adding unit 964968.19
+After adding unit 959616.35
+After adding unit 954177.36
+After adding unit 948651.22
+After adding unit 945367.06
+After adding unit 942035.38
+After adding unit 938656.18
+After adding unit 935229.46
+After adding unit 931755.22
+After adding unit 928233.46
+After adding unit 924664.18
+After adding unit 921047.38
+After adding unit 917383.06
+After adding unit 913671.22
+Exit for long position
+After removing unit 921410.14
+Exit for long position
+After removing unit 929149.06
+Exit for long position
+After removing unit 936887.98
+Exit for long position
+After removing unit 944626.9
+Exit for long position
+After removing unit 952365.82
 No breakout yet
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1076 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-09 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1068 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-10 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-11 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-12 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-15 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-16 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1052 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-17 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-18 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-19 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-22 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-23 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-24 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-26 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-29 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-30 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 14-12-31 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-05 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1224 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-06 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-07 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-08 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-09 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-12 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-13 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-14 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1312 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-15 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-16 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1348 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-20 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-21 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-22 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-23 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-26 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-27 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-28 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-29 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1260 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-01-30 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1268 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-03 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-04 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-05 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-06 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-09 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-10 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-11 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-12 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1532 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-13 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-17 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-18 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-19 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-20 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-23 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-24 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-25 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1836 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-26 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-02-27 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-03 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1912 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-04 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1856 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-05 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-06 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-09 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-10 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1872 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-11 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-12 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-13 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-16 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-17 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-18 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-19 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-20 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-23 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-24 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-25 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-26 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-27 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-30 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-03-31 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-01 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-06 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-07 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-08 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-09 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Last breakout was a losing trade
-System 1: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2168 shares) to initiate long position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-10 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Last breakout was a losing trade
-System 1: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2156 shares) to initiate long position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-13 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-14 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-15 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-16 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-17 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-20 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-21 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-22 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-23 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-24 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-27 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-28 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-29 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-04-30 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-01 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2468 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-04 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-05 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2448 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-06 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-07 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Last breakout was a losing trade
-System 1: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1908 shares) to initiate long position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-08 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1928 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-11 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-12 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-13 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2048 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-14 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2088 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-15 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2128 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-18 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-19 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-20 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-21 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1920 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-22 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1876 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-26 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-27 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-28 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-05-29 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-01 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-03 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-04 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-05 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-08 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-09 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-10 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-11 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-12 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-15 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2316 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-16 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2384 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-17 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-18 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-19 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-22 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-23 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-24 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-25 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-26 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2684 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-29 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-06-30 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-01 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-06 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2836 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-07 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2704 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-08 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2692 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-09 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-10 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-13 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-14 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-15 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-16 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-17 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-20 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-21 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-22 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-23 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-24 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-27 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-28 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-29 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-30 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-07-31 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-03 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-04 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-05 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-06 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-07 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-10 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-11 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-12 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2500 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-13 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-14 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-17 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-18 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-19 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2640 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-20 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2620 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-21 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2696 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-24 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2704 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-25 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-26 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-27 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-28 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-08-31 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-01 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2284 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-03 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-04 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-08 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-09 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-10 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-11 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-14 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-15 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-16 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-17 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-18 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-21 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-22 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-23 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-24 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2472 shares) to initiate short position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-25 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-28 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2528 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-29 ####################
-
--------- Trade strategy --------
-Initiate short position...
-Last breakout was a losing trade
-System 1: sell one unit to initiate a short position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2652 shares) to initiate short position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-09-30 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-01 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-05 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-06 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-07 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-08 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-09 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-12 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Last breakout was a losing trade
-System 1: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2252 shares) to initiate long position with 20-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-13 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-14 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-15 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-16 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2144 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-19 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-20 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2216 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-21 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-22 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-23 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (2092 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-26 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-27 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-28 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1800 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-29 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-10-30 ####################
-
--------- Trade strategy --------
-Initiate long position...
-Previous breakout was winner. Make 55-day breakout entry to avoid missing major moves...
-System 2: Buy one unit to initiate a long position
---------------------------------
-
-
--------- Final decision --------
-Given $ 10000000, buy 4 turtle units (1784 shares) to initiate long position with 55-day breakout
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-11-02 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
-#################### The chosen date is 15-11-03 ####################
-
--------- Trade strategy --------
-No strategy
---------------------------------
-
-
--------- Final decision --------
-No decision is made
--------- Final decision --------
-
-#####################################################################
+After adding unit 949892.89
+After adding unit 947470.99
+After adding unit 945100.12
+After adding unit 942780.28
+After adding unit 940511.47
+Exit for long position
+After removing unit 948148.3
+Exit for long position
+After removing unit 955785.13
+Exit for long position
+After removing unit 963421.96
+After adding unit 959357.17
+After adding unit 955241.64
+After adding unit 951075.37
+Exit for long position
+After removing unit 958727.97
+After adding unit 956205.17
+Exit for long position
+After removing unit 967606.05
+Exit for long position
+After removing unit 972138.93
+Exit for long position
+After removing unit 976671.81
+Exit for long position
+After removing unit 981204.69
+Exit for long position
+After removing unit 985737.57
+Exit for long position
+After removing unit 990270.45
+Exit for long position
+After removing unit 996176.93
+Exit for long position
+After removing unit 1002083.41
+After adding unit 999545.31
+After adding unit 996974.06
+After adding unit 994369.83
+After adding unit 991921.99
+After adding unit 989443.11
+After adding unit 986933.19
+After adding unit 984392.23
+After adding unit 981820.23
+Exit for long position
+After removing unit 986635.59
+Exit for long position
+After removing unit 991450.95
+Exit for long position
+After removing unit 996266.31
+Exit for long position
+After removing unit 1002540.87
+After adding unit 999125.6
+After adding unit 996252.98
+After adding unit 993349.58
+After adding unit 990415.4
+Exit for long position
+After removing unit 995446.25
+Exit for long position
+After removing unit 998037.9
+Exit for long position
+After removing unit 1000629.55
+Exit for long position
+After removing unit 1004135.9
+After adding unit 1002063.14
+After adding unit 999963.02
+After adding unit 997835.54
+After adding unit 995777.42
+Exit for long position
+After removing unit 1002655.61
+Exit for long position
+After removing unit 1006198.92
+Exit for long position
+After removing unit 1009533.8
+Exit for long position
+After removing unit 1012868.68
+Exit for long position
+After removing unit 1016203.56
+Exit for long position
+After removing unit 1019955.3
+Exit for long position
+After removing unit 1022456.46
+Exit for long position
+After removing unit 1024957.62
+After adding unit 1022962.05
+After adding unit 1020943.89
+After adding unit 1018903.14
+After adding unit 1016839.8
+After adding unit 1014753.87
+After adding unit 1012890.11
+After adding unit 1011005.15
+After adding unit 1009098.99
+Exit for long position
+After removing unit 1012402.43
+Exit for long position
+After removing unit 1015511.55
+Exit for long position
+After removing unit 1019009.31
+Exit for long position
+After removing unit 1021341.15
+After adding unit 1020129.1
+After adding unit 1018944.98
+After adding unit 1017788.79
+After adding unit 1016581.36
+Exit for long position
+After removing unit 1019308.72
+After adding unit 1017739.11
+Exit for long position
+After removing unit 1021187.55
+After adding unit 1019364.45
+Exit for long position
+After removing unit 1022266.65
+Exit for long position
+After removing unit 1024443.3
+Exit for long position
+After removing unit 1026619.95
+Exit for long position
+After removing unit 1028554.75
+Exit for long position
+After removing unit 1030489.55
+Exit for long position
+After removing unit 1032182.5
+After adding unit 1030106.83
+After adding unit 1028052.58
+After adding unit 1026019.75
+After adding unit 1024201.59
+After adding unit 1022403.75
+After adding unit 1020626.23
+Exit for long position
+After removing unit 1022627.2
+After adding unit 1020662.59
+Exit for long position
+After removing unit 1022769.4
+After adding unit 1020346.8
+Exit for long position
+After removing unit 1022648.01
+Exit for long position
+After removing unit 1025204.91
+After adding unit 1023484.59
+After adding unit 1021782.75
+Exit for long position
+After removing unit 1024411.07
+After adding unit 1023467.63
+Exit for short position
+After removing unit 1024269.23
+After adding unit 1023330.35
+Exit for short position
+After removing unit 1024998.31
+After adding unit 1024162.24
+Exit for long position
+After removing unit 1025255.08
+After adding unit 1024223.56
+Exit for short position
+After removing unit 1025226.56
+After adding unit 1024292.56
+Exit for short position
+After removing unit 1025373.85
+Exit for short position
+After removing unit 1026455.14
+Exit for short position
+After removing unit 1027999.84
+Exit for short position
+After removing unit 1029390.07
+Exit for short position
+After removing unit 1030625.83
+Exit for short position
+After removing unit 1031861.59
+Exit for short position
+After removing unit 1032942.88
+Exit for short position
+After removing unit 1033715.23
+After adding unit 1032550.99
+After adding unit 1031358.33
+After adding unit 1030111.98
+After adding unit 1028839.1
+After adding unit 1027539.69
+After adding unit 1026213.75
+After adding unit 1024861.28
+After adding unit 1023482.28
+Exit for long position
+After removing unit 1024664.3
+After adding unit 1022732.72
+Exit for short position
+After removing unit 1024755.65
+After adding unit 1022444.05
+Exit for long position
+After removing unit 1023982.51
+Exit for long position
+After removing unit 1025520.97
+Exit for long position
+After removing unit 1027059.43
+Exit for long position
+After removing unit 1028597.89
+After adding unit 1026505.03
+After adding unit 1024404.07
+After adding unit 1022282.77
+After adding unit 1020141.13
+Exit for long position
+After removing unit 1021832.54
+Exit for long position
+After removing unit 1023523.95
+Exit for long position
+After removing unit 1025940.25
+Exit for long position
+After removing unit 1028114.92
+Exit for long position
+After removing unit 1030289.59
+After adding unit 1028213.35
+After adding unit 1026118.31
+After adding unit 1024004.47
+After adding unit 1021871.83
+After adding unit 1019928.63
+Exit for long position
+After removing unit 1021781.81
+Exit for long position
+After removing unit 1024164.47
+Exit for long position
+After removing unit 1026282.39
+Exit for long position
+After removing unit 1028400.31
+After adding unit 1026458.16
+After adding unit 1024490.6
+After adding unit 1022505.89
+After adding unit 1020504.03
+Exit for long position
+After removing unit 1021391.13
+Exit for long position
+After removing unit 1024052.43
+Exit for long position
+After removing unit 1026418.03
+Exit for long position
+After removing unit 1028487.93
+Exit for long position
+After removing unit 1030557.83
+After adding unit 1028542.11
+After adding unit 1026929.79
+After adding unit 1025336.07
+After adding unit 1023760.95
+After adding unit 1022204.43
+Exit for long position
+After removing unit 1024581.06
+After adding unit 1022670.2
+Exit for short position
+After removing unit 1024632.93
+After adding unit 1022864.55
+Exit for long position
+After removing unit 1025114.31
+Exit for long position
+After removing unit 1027082.85
+Exit for long position
+After removing unit 1029051.39
+After adding unit 1027549.95
+After adding unit 1026066.69
+After adding unit 1024897.49
+Exit for short position
+After removing unit 1026381.35
+Exit for short position
+After removing unit 1027865.21
+Exit for short position
+After removing unit 1029349.07
+After adding unit 1027960.13
+After adding unit 1026590.63
+After adding unit 1025240.57
+Exit for short position
+After removing unit 1026685.85
+Exit for short position
+After removing unit 1028131.13
+After adding unit 1026094.41
+After adding unit 1024038.49
+Exit for long position
+After removing unit 1026147.17
+Exit for long position
+After removing unit 1027954.61
+Exit for long position
+After removing unit 1030364.53
+After adding unit 1028575.03
+After adding unit 1026769.81
+After adding unit 1025015.23
+Exit for long position
+After removing unit 1027036.97
+Exit for long position
+After removing unit 1029347.53
+After adding unit 1027344.76
+After adding unit 1025359.63
+Exit for short position
+After removing unit 1027114.15
+After adding unit 1025479.93
+Exit for short position
+After removing unit 1027387.99
+After adding unit 1025328.31
+Exit for short position
+After removing unit 1026832.75
+Exit for short position
+After removing unit 1028587.93
+Exit for short position
+After removing unit 1030593.85
+After adding unit 1029101.6
+After adding unit 1027592.2
+After adding unit 1026065.65
+Exit for short position
+After removing unit 1027698.25
+After adding unit 1026502.61
+Exit for long position
+After removing unit 1028312.39
+Exit for long position
+After removing unit 1029820.54
+Exit for long position
+After removing unit 1031027.06
+After adding unit 1029173.12
+After adding unit 1027218.98
+After adding unit 1025249.24
+Exit for long position
+After removing unit 1027162.7
+Exit for long position
+After removing unit 1028757.25
+After adding unit 1027201.3
+After adding unit 1025715.3
+Exit for short position
+After removing unit 1027258.65
+After adding unit 1025675.65
+Exit for short position
+After removing unit 1027128.75
+After adding unit 1025540.2
+Exit for long position
+After removing unit 1027201.05
+Exit for long position
+After removing unit 1029194.07
+Exit for long position
+After removing unit 1030854.92
+After adding unit 1029106.67
+After adding unit 1027343.97
+After adding unit 1026053.29
+Exit for long position
+After removing unit 1028156.23
+Exit for long position
+After removing unit 1029908.68
+After adding unit 1028424.52
+After adding unit 1026942.0
+Exit for long position
+After removing unit 1029107.04
+Exit for long position
+After removing unit 1030911.24
+After adding unit 1029742.23
+After adding unit 1028563.02
+Exit for long position
+After removing unit 1030573.52
+Exit for long position
+After removing unit 1032181.92
+Exit for long position
+After removing unit 1033388.22
+After adding unit 1032117.09
+After adding unit 1030835.13
+After adding unit 1029542.34
+Exit for long position
+After removing unit 1031291.1
+Exit for long position
+After removing unit 1032602.67
+Exit for long position
+After removing unit 1033914.24
+After adding unit 1032549.12
+After adding unit 1031164.05
+After adding unit 1029769.05
+Exit for long position
+After removing unit 1031097.63
+After adding unit 1030087.19
+Exit for long position
+After removing unit 1031597.24
+Exit for long position
+After removing unit 1033107.29
+After adding unit 1032071.17
+After adding unit 1031027.35
+Exit for long position
+After removing unit 1032820.15
+Exit for long position
+After removing unit 1034015.35
+Exit for long position
+After removing unit 1035210.55
+After adding unit 1034029.75
+After adding unit 1033182.46
+After adding unit 1032350.86
+Exit for long position
+After removing unit 1033973.08
+After adding unit 1033440.53
+Exit for long position
+After removing unit 1034485.55
+After adding unit 1033977.09
+Exit for short position
+After removing unit 1035059.35
+After adding unit 1034462.9
+Exit for short position
+After removing unit 1034984.38
+After adding unit 1034423.85
+Exit for long position
+After removing unit 1034996.85
+After adding unit 1034996.85
+After removing unit 1054747.35
+After removing unit 1074497.85
+After removing unit 1094248.35
+After removing unit 1113998.85
+After removing unit 1133749.35
+After removing unit 1138869.85
+After removing unit 1143990.35
+After removing unit 1150573.85
+After removing unit 1156425.85
+After removing unit 1163009.35
+After removing unit 1166666.85
+After removing unit 1171055.85
+After removing unit 1175444.85
+After removing unit 1179833.85
+After removing unit 1182759.85
+After removing unit 1184954.35
+After removing unit 1187148.85
+After removing unit 1187880.35
+After removing unit 1188611.85
+After removing unit 1188611.85
+The final equity is 1188611.85

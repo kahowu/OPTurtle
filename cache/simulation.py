@@ -11,3 +11,17 @@
 # WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+from opturtle import *
+
+EQUITY = 1000000
+
+if __name__ == '__main__':
+	data = read_data (sys.argv)
+	turtle = OPTurtle (data)
+	turtle.setup()
+	dates = turtle.dates
+	for date in dates:
+		print ("#################### The chosen date is " + date + " ####################")
+		turtle.suggest_strategy (date, EQUITY)
+		print ("#####################################################################")
