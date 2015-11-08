@@ -220,21 +220,21 @@ class OPTurtle:
 		bo_type = last_bo[2]
 		bo_idx = date_dict[bo_date]
 		bo_N = n_list[bo_idx]
+		limit = self.data_size - bo_idx
 
 		if bo_type == LONG:
 			# Check position before 10 day exit
-			for i in range (1, DAY_10_EXIT):
+			for i in range (1, DAY_20_EXIT):
 				if (bo_idx + i) < self.data_size:
 					curr_row = data.iloc[bo_idx + i]
 					curr_price = curr_row["Close"]
 					if np.subtract (bo_price, (2 * bo_N)) >= curr_price:
-						# bo_price - 2 * bo_N
 						return True 
 				else:
 					break
 		else: 
 			# Check position before 10 day exit
-			for i in range (1,DAY_10_EXIT):
+			for i in range (1, DAY_20_EXIT):
 				if (bo_idx + i) < self.data_size:
 					curr_row = data.iloc[bo_idx + i]
 					curr_price = curr_row["Close"]
@@ -242,6 +242,8 @@ class OPTurtle:
 						return True
 				else:
 					break
+
+
 			
 		return False
 
