@@ -12,13 +12,13 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-from opturtle import *
+from opturtle_v1 import *
 from constants import *
 
 # Shorter-term system based on a 20-day breakout 
 # If the last breakout was a loser, then entry signal -> 20-day breakout
 # If the last breakout was a winner, then entry signal -> 55-day breakout
-def sys_entry (portfolio, turtle, curr_date, curr_price, curr_N):
+def sys_entry (portfolio, turtle, curr_date, curr_price, curr_N, exit_type):
 	half_N = np.divide (curr_N, 2)
 	unit_size = turtle.get_unit_size (curr_price, curr_N, portfolio)
 	breakout_price = curr_price
@@ -32,15 +32,15 @@ def sys_entry (portfolio, turtle, curr_date, curr_price, curr_N):
 
 	if curr_price > (highest + TICK_SIZE):
 		# print ("Initiate long position...")
-		last_bo = turtle.find_last_breakout (curr_date, LONG)
 		# Check to see if last breakout was a losing breakout
-		if turtle.is_loser_breakout (last_bo): 
+		if turtle.is_last_breakout_loser (curr_date):
 			# print ("Last breakout was a losing trade")
 			# print ("System 1: Buy to initiate a long position")
 			while portfolio.sys_1_entries != MAX_SYS_1_ENTRIES:
 				breakout_price = round(breakout_price, PRECISION)
 				stop_price = round(stop_price, PRECISION)
 				new_entry = BreakoutEntry (breakout_price, stop_price, curr_date, SYS_1_LONG, unit_size)
+				print_entry (new_entry)
 				portfolio.add_unit (new_entry)
 				stop_price = breakout_price
 				breakout_price += half_N
@@ -55,14 +55,14 @@ def sys_entry (portfolio, turtle, curr_date, curr_price, curr_N):
 
 	elif curr_price < (lowest - TICK_SIZE):
 		# print ("Initiate short position...")
-		last_bo = turtle.find_last_breakout (curr_date, SHORT)			
-		if turtle.is_loser_breakout (last_bo):
+		if turtle.is_last_breakout_loser (curr_date):
 			# print ("Last breakout was a losing trade")
 			# print ("System 1: Sell to initiate a short position")
 			while portfolio.sys_1_entries != MAX_SYS_1_ENTRIES:
 				breakout_price = round(breakout_price, PRECISION)
 				stop_price = round(stop_price, PRECISION)
 				new_entry = BreakoutEntry (breakout_price, stop_price, curr_date, SYS_1_SHORT, unit_size)
+				print_entry (new_entry)
 				portfolio.add_unit (new_entry)
 				stop_price = breakout_price
 				breakout_price -= half_N
@@ -86,6 +86,7 @@ def sys_2_entry (portfolio, turtle, curr_date, curr_price, half_N, unit_size):
 			breakout_price = round(breakout_price, PRECISION)
 			stop_price = round(stop_price, PRECISION)
 			new_entry = BreakoutEntry (breakout_price, stop_price, curr_date, SYS_2_LONG, unit_size)
+			print_entry (new_entry)
 			portfolio.add_unit (new_entry)
 			stop_price = breakout_price
 			breakout_price += half_N
@@ -96,6 +97,7 @@ def sys_2_entry (portfolio, turtle, curr_date, curr_price, half_N, unit_size):
 			breakout_price = round(breakout_price, PRECISION)
 			stop_price = round(stop_price, PRECISION)
 			new_entry = BreakoutEntry (breakout_price, stop_price, curr_date, SYS_2_SHORT, unit_size)
+			print_entry (new_entry)
 			portfolio.add_unit (new_entry)
 			stop_price = breakout_price
 			breakout_price -= half_N
@@ -118,15 +120,17 @@ def create_strategy (turtle, equity):
 		curr_price = curr_row["Open"]
 		curr_date = dates[curr_idx]
 		if len(inventory) != MAX_INVENTORY_SIZE:
-			sys_entry (portfolio, turtle, curr_date, curr_price, curr_N)
+			sys_entry (portfolio, turtle, curr_date, curr_price, curr_N, SYS_1_EXIT)
 		else:
 			# Check current price againt each item in the inventory
 			for entry in inventory:
 				if turtle.should_stop (entry, curr_price):
+					print_entry (entry)
 					portfolio.remove_unit (entry, curr_price)
 					continue 
 
 				if turtle.should_exit (entry, curr_price, curr_date, SYS_1_EXIT):
+					print_entry (entry)
 					portfolio.remove_unit (entry, curr_price)
 
 		curr_idx += 1 
@@ -139,3 +143,5 @@ def create_strategy (turtle, equity):
 	print "The percentage return is " + str(percentage_return * 100) 
 
 
+def print_entry (entry):
+	print "entry: {0}, stop: {1}, date: {2}, type: {3}, unit size: {4}".format(entry.entry_price, entry.stop_price, entry.entry_date, entry.strategy_type, entry.unit_size)
