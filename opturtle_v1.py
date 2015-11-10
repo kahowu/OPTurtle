@@ -27,13 +27,20 @@ class BreakoutEntry:
 		self.entry_date = entry_date
 		self.unit_size = unit_size
 
+class PotentialEntry:
+	def __init__(self, entry_price, entry_date, strategy_type, is_loser):
+		self.entry_price = entry_price
+		self.strategy_type = strategy_type
+		self.entry_date = entry_date
+		self.is_loser = is_loser
+
 class Portfolio:
 	def __init__(self, equity):
 		self.equity = equity
 		self.inventory = []
 		self.sys_1_entries = 0 
 		self.sys_2_entries = 0
-		self.inv_size = MAX_INVENTORY_SIZE
+		self.inv_size = 0
 
 	def add_unit (self, entry_obj):
 		if (entry_obj.strategy_type == SYS_1_LONG) or (entry_obj.strategy_type == SYS_1_SHORT):
@@ -43,6 +50,7 @@ class Portfolio:
 
 		total_price = entry_obj.entry_price * entry_obj.unit_size
 		new_equity = round((self.equity - total_price), PRECISION)
+		print "After adding units " + str(new_equity)
 		self.update_equity (new_equity)
 		self.inventory.append (entry_obj)
 
@@ -55,6 +63,7 @@ class Portfolio:
 
 		total_price = exit_price * entry_obj.unit_size
 		new_equity = round((self.equity + total_price), PRECISION)
+		print "After removing units " + str(new_equity)
 		self.update_equity (new_equity)
 		self.inventory.remove (entry_obj)
 
@@ -66,16 +75,28 @@ class OPTurtle:
 		self.data = data 
 		self.tr_list = []
 		self.n_list = [] 
-		self.bo_list = []
 		self.date_dict = dict()
 		self.dates = []
 		self.data_size = len (data)
+		self.bo_dict = dict()
 
 	def setup (self):
 		self.create_date_dict ()
 		self.generate_tr_list ()
 		self.generate_n_list ()
-		self.generate_bo_list ()
+		self.generate_bo_dict ()
+
+
+	# DPP: dollars per point
+	def dollar_volatility (self, DPP, N):
+		return round(N * DPP, PRECISION)
+
+
+	# Volatility Adjusted Position Units
+	def vadj_unit (self, equity, dv):
+		one_percent = equity * 0.01
+		unit = one_percent / dv
+		return int(math.floor (unit))
 
 	def get_unit_size (self, curr_price, curr_N, portfolio):
 		dv = self.dollar_volatility (curr_price, curr_N)
@@ -122,18 +143,6 @@ class OPTurtle:
 		N =  (idx * PDN + TR) / (idx + 1)
 		return round(N, PRECISION)
 
-
-	# DPP: dollars per point
-	def dollar_volatility (self, DPP, N):
-		return round(N * DPP, PRECISION)
-
-
-	# Volatility Adjusted Position Units
-	def vadj_unit (self, equity, dv):
-		one_percent = equity * 0.01
-		unit = one_percent / dv
-		return int(math.floor (unit))
-
 	# Generate list of Ns
 	def generate_n_list (self):
 		tr_list = self.tr_list
@@ -167,13 +176,11 @@ class OPTurtle:
 
 		self.tr_list = tr_list
 
-	# Generate a list of all breakouts 
-	def generate_bo_list (self): 
+	def generate_bo_dict (self):
 		dates = self.dates
 		date_dict = self.date_dict
 		data = self.data
-
-		bo_list = []
+		bo_dict = self.bo_dict
 		for date in dates:
 			curr_idx = date_dict[date]
 			if curr_idx >= DAY_20: 
@@ -181,98 +188,80 @@ class OPTurtle:
 				curr_row = data.iloc[curr_idx]
 				curr_price = curr_row["Open"]
 				if curr_price > (highest + TICK_SIZE):
-					# Long  
-					bo_list.append((date, curr_price, LONG))
+					entry = PotentialEntry (curr_price, date, LONG, False)
+					if self.is_loser_breakout ((date, curr_price, LONG), SYS_1_EXIT):
+						entry.is_loser = True
+					bo_dict[curr_idx] = entry
 				elif curr_price < (lowest - TICK_SIZE):
-					# Short 
-					bo_list.append((date, curr_price, SHORT))
-
-
-		self.bo_list = bo_list
+					entry = PotentialEntry (curr_price, date, SHORT, False)
+					if self.is_loser_breakout ((date, curr_price, SHORT), SYS_1_EXIT):
+						entry.is_loser = True
+					bo_dict[curr_idx] = entry
 
 	# Find last breakout given a date
-	def find_last_breakout (self, curr_date, strategy_type):
-		date_dict = self.date_dict
-		bo_list = self.bo_list
-		curr_idx = date_dict[curr_date] 
-		last_bo = None
-		for bo in bo_list:
-			bo_date = bo[0]
-			bo_price = bo[1]
-			bo_type = bo[2]
-			bo_idx = date_dict[bo_date] 
-			if (bo_idx < curr_idx) and (strategy_type == bo_type):
-				last_bo = bo
-		return last_bo
+	def is_last_breakout_loser (self, curr_date):
+		curr_idx = self.date_dict[curr_date] 
+		bo_dict = self.bo_dict 
+		i = curr_idx - 1 
 
-	# Check if the last breakout is a winning trade 
-	def is_loser_breakout (self, last_bo, exit_type):
-		if last_bo is None:
-			# print "No breakout yet"
-			return True
+		while i != 0:
+			if bo_dict.has_key(i):
+				return bo_dict[i].is_loser
+			i -= 1
 
-		loss_day = self.find_2N_loss (last_bo)
-		exit_day = self.find_profitable_exit (last_bo, exit_type)
-		if loss_day < exit_day:
-			return True
-			
-		return False
+		# No breakout yet, return True!
+		return True 
 
 	# When the market goes 2N against position
-	def find_2N_loss (self, bo):
+	def is_loser_breakout (self, bo, exit_type):
 		data = self.data
 		date_dict = self.date_dict
 		n_list = self.n_list
-
-		bo_date = bo[0]
-		bo_price = bo[1]
-		bo_type = bo[2]
-		bo_idx = date_dict[bo_date]
-		bo_N = n_list[bo_idx]
-		i = bo_idx + 1 
-
-		if bo_type == LONG: 
-			while i < self.data_size: 
-				curr_row = data.iloc[i]
-				curr_price = curr_row["Close"]
-				if np.subtract (bo_price, (2 * bo_N)) >= curr_price:
-					return i
-				i += 1
-		elif bo_type == SHORT:
-			while i < self.data_size:
-				curr_row = data.iloc[i]
-				curr_price = curr_row["Close"]
-				if np.add (bo_price, (2 * bo_N)) <= curr_price:
-					return i
-				i += 1
-
-	def find_profitable_exit (self, bo, exit_type):
-		data = self.data
-		date_dict = self.date_dict
 		dates = self.dates
 
 		bo_date = bo[0]
 		bo_price = bo[1]
 		bo_type = bo[2]
 		bo_idx = date_dict[bo_date]
+		bo_N = n_list[bo_idx]
+
 		i = bo_idx + 1 
+
+		loss_found = False
+		exit_found = False
+		loss_idx = 0 
+		exit_idx = 0 
 
 		if bo_type == LONG: 
 			while i < self.data_size: 
-				curr_date = dates[i]
 				curr_row = data.iloc[i]
 				curr_price = curr_row["Close"]
-				if self.is_x_day_low (curr_price, curr_date, exit_type) and (curr_price > bo_price):
-					return i 
+				curr_date = dates[i]
+				if (not loss_found) and (np.subtract (bo_price, (2 * bo_N)) >= curr_price):
+					loss_found = True
+					loss_idx = i 
+				if (not exit_found) and self.is_x_day_low (curr_price, curr_date, exit_type) and (curr_price > bo_price):
+					exit_found = True 
+					exit_idx = i 			
 				i += 1
+
 		elif bo_type == SHORT:
 			while i < self.data_size:
-				curr_date = dates[i]
 				curr_row = data.iloc[i]
 				curr_price = curr_row["Close"]
-				if self.is_x_day_high (curr_price, curr_date, exit_type) and (curr_price < bo_price):
-					return i
+				curr_date = dates[i]
+				if (not loss_found) and (np.add (bo_price, (2 * bo_N)) <= curr_price):
+					loss_found = True
+					loss_idx = i 
+				if (not exit_found) and self.is_x_day_high (curr_price, curr_date, exit_type) and (curr_price < bo_price):
+					exit_found = True 
+					exit_idx = i 			
 				i += 1
+
+		if loss_idx  < exit_idx:
+			return True
+			
+		return False
 
 	# Check if the curent price is lower than previous 20 days
 	def is_x_day_low (self, curr_price, curr_date, exit_type):
@@ -296,7 +285,7 @@ class OPTurtle:
 			return True
 		return False
 
-	# Get high-low for previous 20 days
+	# Get highest, lowestfor previous 20 days
 	def prev_20 (self, curr_date):
 		date_dict = self.date_dict
 		idx = date_dict[curr_date]
@@ -310,7 +299,7 @@ class OPTurtle:
 			print "Not enough data for previous 20 days!"
 
 
-	# Get high-low for previous 55 days
+	# Get highest, lowest for previous 55 days
 	def prev_55 (self, curr_date):
 		date_dict = self.date_dict
 		idx = date_dict[curr_date]
@@ -323,12 +312,24 @@ class OPTurtle:
 		else:
 			print "Not enough data for previous 55 days!"
 
+	# Get highest, lowest for previous X days
+	# def prev_x (self, curr_date, x_days):
+	# 	date_dict = self.date_dict
+	# 	idx = date_dict[curr_date]
+	# 	data = self.data 
+	# 	if idx >= x_days: 
+	# 		row = data.iloc[idx - x_days: idx]
+	# 		highest = max(row ["Close"])
+	# 		lowest = min(row ["Close"])
+	# 		return highest, lowest
+	# 	else:
+	# 		print "Not enough data for previous " + str (x_days) + " days!"
+
 	def validate_date (self, curr_date, day_type):
 		date_dict = self.date_dict
 		idx = date_dict[curr_date]
 		if idx < day_type: 
 			return False
-
 		return True
 
 	def should_exit (self, entry, curr_price, curr_date, exit_type):

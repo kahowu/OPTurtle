@@ -1,465 +1,87 @@
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-Not enough days to do analysis!
-No breakout yet
-After adding unit 995256.55
-After adding unit 990425.95
-After adding unit 985508.2
-After adding unit 980503.3
-After adding unit 975412.08
-After adding unit 970233.71
-After adding unit 964968.19
-After adding unit 959616.35
-After adding unit 954177.36
-After adding unit 948651.22
-After adding unit 945367.06
-After adding unit 942035.38
-After adding unit 938656.18
-After adding unit 935229.46
-After adding unit 931755.22
-After adding unit 928233.46
-After adding unit 924664.18
-After adding unit 921047.38
-After adding unit 917383.06
-After adding unit 913671.22
-Exit for long position
-After removing unit 921410.14
-Exit for long position
-After removing unit 929149.06
-Exit for long position
-After removing unit 936887.98
-Exit for long position
-After removing unit 944626.9
-Exit for long position
-After removing unit 952365.82
-No breakout yet
-After adding unit 949892.89
-After adding unit 947470.99
-After adding unit 945100.12
-After adding unit 942780.28
-After adding unit 940511.47
-Exit for long position
-After removing unit 948148.3
-Exit for long position
-After removing unit 955785.13
-Exit for long position
-After removing unit 963421.96
-After adding unit 959357.17
-After adding unit 955241.64
-After adding unit 951075.37
-Exit for long position
-After removing unit 958727.97
-After adding unit 956205.17
-Exit for long position
-After removing unit 967606.05
-Exit for long position
-After removing unit 972138.93
-Exit for long position
-After removing unit 976671.81
-Exit for long position
-After removing unit 981204.69
-Exit for long position
-After removing unit 985737.57
-Exit for long position
-After removing unit 990270.45
-Exit for long position
-After removing unit 996176.93
-Exit for long position
-After removing unit 1002083.41
-After adding unit 999545.31
-After adding unit 996974.06
-After adding unit 994369.83
-After adding unit 991921.99
-After adding unit 989443.11
-After adding unit 986933.19
-After adding unit 984392.23
-After adding unit 981820.23
-Exit for long position
-After removing unit 986635.59
-Exit for long position
-After removing unit 991450.95
-Exit for long position
-After removing unit 996266.31
-Exit for long position
-After removing unit 1002540.87
-After adding unit 999125.6
-After adding unit 996252.98
-After adding unit 993349.58
-After adding unit 990415.4
-Exit for long position
-After removing unit 995446.25
-Exit for long position
-After removing unit 998037.9
-Exit for long position
-After removing unit 1000629.55
-Exit for long position
-After removing unit 1004135.9
-After adding unit 1002063.14
-After adding unit 999963.02
-After adding unit 997835.54
-After adding unit 995777.42
-Exit for long position
-After removing unit 1002655.61
-Exit for long position
-After removing unit 1006198.92
-Exit for long position
-After removing unit 1009533.8
-Exit for long position
-After removing unit 1012868.68
-Exit for long position
-After removing unit 1016203.56
-Exit for long position
-After removing unit 1019955.3
-Exit for long position
-After removing unit 1022456.46
-Exit for long position
-After removing unit 1024957.62
-After adding unit 1022962.05
-After adding unit 1020943.89
-After adding unit 1018903.14
-After adding unit 1016839.8
-After adding unit 1014753.87
-After adding unit 1012890.11
-After adding unit 1011005.15
-After adding unit 1009098.99
-Exit for long position
-After removing unit 1012402.43
-Exit for long position
-After removing unit 1015511.55
-Exit for long position
-After removing unit 1019009.31
-Exit for long position
-After removing unit 1021341.15
-After adding unit 1020129.1
-After adding unit 1018944.98
-After adding unit 1017788.79
-After adding unit 1016581.36
-Exit for long position
-After removing unit 1019308.72
-After adding unit 1017739.11
-Exit for long position
-After removing unit 1021187.55
-After adding unit 1019364.45
-Exit for long position
-After removing unit 1022266.65
-Exit for long position
-After removing unit 1024443.3
-Exit for long position
-After removing unit 1026619.95
-Exit for long position
-After removing unit 1028554.75
-Exit for long position
-After removing unit 1030489.55
-Exit for long position
-After removing unit 1032182.5
-After adding unit 1030106.83
-After adding unit 1028052.58
-After adding unit 1026019.75
-After adding unit 1024201.59
-After adding unit 1022403.75
-After adding unit 1020626.23
-Exit for long position
-After removing unit 1022627.2
-After adding unit 1020662.59
-Exit for long position
-After removing unit 1022769.4
-After adding unit 1020346.8
-Exit for long position
-After removing unit 1022648.01
-Exit for long position
-After removing unit 1025204.91
-After adding unit 1023484.59
-After adding unit 1021782.75
-Exit for long position
-After removing unit 1024411.07
-After adding unit 1023467.63
-Exit for short position
-After removing unit 1024269.23
-After adding unit 1023330.35
-Exit for short position
-After removing unit 1024998.31
-After adding unit 1024162.24
-Exit for long position
-After removing unit 1025255.08
-After adding unit 1024223.56
-Exit for short position
-After removing unit 1025226.56
-After adding unit 1024292.56
-Exit for short position
-After removing unit 1025373.85
-Exit for short position
-After removing unit 1026455.14
-Exit for short position
-After removing unit 1027999.84
-Exit for short position
-After removing unit 1029390.07
-Exit for short position
-After removing unit 1030625.83
-Exit for short position
-After removing unit 1031861.59
-Exit for short position
-After removing unit 1032942.88
-Exit for short position
-After removing unit 1033715.23
-After adding unit 1032550.99
-After adding unit 1031358.33
-After adding unit 1030111.98
-After adding unit 1028839.1
-After adding unit 1027539.69
-After adding unit 1026213.75
-After adding unit 1024861.28
-After adding unit 1023482.28
-Exit for long position
-After removing unit 1024664.3
-After adding unit 1022732.72
-Exit for short position
-After removing unit 1024755.65
-After adding unit 1022444.05
-Exit for long position
-After removing unit 1023982.51
-Exit for long position
-After removing unit 1025520.97
-Exit for long position
-After removing unit 1027059.43
-Exit for long position
-After removing unit 1028597.89
-After adding unit 1026505.03
-After adding unit 1024404.07
-After adding unit 1022282.77
-After adding unit 1020141.13
-Exit for long position
-After removing unit 1021832.54
-Exit for long position
-After removing unit 1023523.95
-Exit for long position
-After removing unit 1025940.25
-Exit for long position
-After removing unit 1028114.92
-Exit for long position
-After removing unit 1030289.59
-After adding unit 1028213.35
-After adding unit 1026118.31
-After adding unit 1024004.47
-After adding unit 1021871.83
-After adding unit 1019928.63
-Exit for long position
-After removing unit 1021781.81
-Exit for long position
-After removing unit 1024164.47
-Exit for long position
-After removing unit 1026282.39
-Exit for long position
-After removing unit 1028400.31
-After adding unit 1026458.16
-After adding unit 1024490.6
-After adding unit 1022505.89
-After adding unit 1020504.03
-Exit for long position
-After removing unit 1021391.13
-Exit for long position
-After removing unit 1024052.43
-Exit for long position
-After removing unit 1026418.03
-Exit for long position
-After removing unit 1028487.93
-Exit for long position
-After removing unit 1030557.83
-After adding unit 1028542.11
-After adding unit 1026929.79
-After adding unit 1025336.07
-After adding unit 1023760.95
-After adding unit 1022204.43
-Exit for long position
-After removing unit 1024581.06
-After adding unit 1022670.2
-Exit for short position
-After removing unit 1024632.93
-After adding unit 1022864.55
-Exit for long position
-After removing unit 1025114.31
-Exit for long position
-After removing unit 1027082.85
-Exit for long position
-After removing unit 1029051.39
-After adding unit 1027549.95
-After adding unit 1026066.69
-After adding unit 1024897.49
-Exit for short position
-After removing unit 1026381.35
-Exit for short position
-After removing unit 1027865.21
-Exit for short position
-After removing unit 1029349.07
-After adding unit 1027960.13
-After adding unit 1026590.63
-After adding unit 1025240.57
-Exit for short position
-After removing unit 1026685.85
-Exit for short position
-After removing unit 1028131.13
-After adding unit 1026094.41
-After adding unit 1024038.49
-Exit for long position
-After removing unit 1026147.17
-Exit for long position
-After removing unit 1027954.61
-Exit for long position
-After removing unit 1030364.53
-After adding unit 1028575.03
-After adding unit 1026769.81
-After adding unit 1025015.23
-Exit for long position
-After removing unit 1027036.97
-Exit for long position
-After removing unit 1029347.53
-After adding unit 1027344.76
-After adding unit 1025359.63
-Exit for short position
-After removing unit 1027114.15
-After adding unit 1025479.93
-Exit for short position
-After removing unit 1027387.99
-After adding unit 1025328.31
-Exit for short position
-After removing unit 1026832.75
-Exit for short position
-After removing unit 1028587.93
-Exit for short position
-After removing unit 1030593.85
-After adding unit 1029101.6
-After adding unit 1027592.2
-After adding unit 1026065.65
-Exit for short position
-After removing unit 1027698.25
-After adding unit 1026502.61
-Exit for long position
-After removing unit 1028312.39
-Exit for long position
-After removing unit 1029820.54
-Exit for long position
-After removing unit 1031027.06
-After adding unit 1029173.12
-After adding unit 1027218.98
-After adding unit 1025249.24
-Exit for long position
-After removing unit 1027162.7
-Exit for long position
-After removing unit 1028757.25
-After adding unit 1027201.3
-After adding unit 1025715.3
-Exit for short position
-After removing unit 1027258.65
-After adding unit 1025675.65
-Exit for short position
-After removing unit 1027128.75
-After adding unit 1025540.2
-Exit for long position
-After removing unit 1027201.05
-Exit for long position
-After removing unit 1029194.07
-Exit for long position
-After removing unit 1030854.92
-After adding unit 1029106.67
-After adding unit 1027343.97
-After adding unit 1026053.29
-Exit for long position
-After removing unit 1028156.23
-Exit for long position
-After removing unit 1029908.68
-After adding unit 1028424.52
-After adding unit 1026942.0
-Exit for long position
-After removing unit 1029107.04
-Exit for long position
-After removing unit 1030911.24
-After adding unit 1029742.23
-After adding unit 1028563.02
-Exit for long position
-After removing unit 1030573.52
-Exit for long position
-After removing unit 1032181.92
-Exit for long position
-After removing unit 1033388.22
-After adding unit 1032117.09
-After adding unit 1030835.13
-After adding unit 1029542.34
-Exit for long position
-After removing unit 1031291.1
-Exit for long position
-After removing unit 1032602.67
-Exit for long position
-After removing unit 1033914.24
-After adding unit 1032549.12
-After adding unit 1031164.05
-After adding unit 1029769.05
-Exit for long position
-After removing unit 1031097.63
-After adding unit 1030087.19
-Exit for long position
-After removing unit 1031597.24
-Exit for long position
-After removing unit 1033107.29
-After adding unit 1032071.17
-After adding unit 1031027.35
-Exit for long position
-After removing unit 1032820.15
-Exit for long position
-After removing unit 1034015.35
-Exit for long position
-After removing unit 1035210.55
-After adding unit 1034029.75
-After adding unit 1033182.46
-After adding unit 1032350.86
-Exit for long position
-After removing unit 1033973.08
-After adding unit 1033440.53
-Exit for long position
-After removing unit 1034485.55
-After adding unit 1033977.09
-Exit for short position
-After removing unit 1035059.35
-After adding unit 1034462.9
-Exit for short position
-After removing unit 1034984.38
-After adding unit 1034423.85
-Exit for long position
-After removing unit 1034996.85
-After adding unit 1034996.85
-After removing unit 1054747.35
-After removing unit 1074497.85
-After removing unit 1094248.35
-After removing unit 1113998.85
-After removing unit 1133749.35
-After removing unit 1138869.85
-After removing unit 1143990.35
-After removing unit 1150573.85
-After removing unit 1156425.85
-After removing unit 1163009.35
-After removing unit 1166666.85
-After removing unit 1171055.85
-After removing unit 1175444.85
-After removing unit 1179833.85
-After removing unit 1182759.85
-After removing unit 1184954.35
-After removing unit 1187148.85
-After removing unit 1187880.35
-After removing unit 1188611.85
-After removing unit 1188611.85
-The final equity is 1188611.85
+The starting equity is 1000000
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 996863.5
+entry: 93.83, stop: 92.25, date: 14-10-22, type: 0, unit size: 34
+After adding units 993673.28
+entry: 95.41, stop: 93.83, date: 14-10-22, type: 0, unit size: 34
+After adding units 990429.34
+entry: 96.99, stop: 95.41, date: 14-10-22, type: 0, unit size: 34
+After adding units 987131.68
+entry: 98.57, stop: 96.99, date: 14-10-22, type: 0, unit size: 34
+After adding units 983780.3
+entry: 100.15, stop: 98.57, date: 14-10-22, type: 0, unit size: 34
+After adding units 980375.2
+entry: 101.73, stop: 100.15, date: 14-10-22, type: 0, unit size: 34
+After adding units 976916.38
+entry: 103.31, stop: 101.73, date: 14-10-22, type: 0, unit size: 34
+After adding units 973403.84
+entry: 104.89, stop: 103.31, date: 14-10-22, type: 0, unit size: 34
+After adding units 969837.58
+entry: 106.47, stop: 104.89, date: 14-10-22, type: 0, unit size: 34
+After adding units 966217.6
+entry: 84.38, stop: 83.09, date: 15-02-25, type: 3, unit size: 44
+After adding units 962504.88
+entry: 83.09, stop: 84.38, date: 15-02-25, type: 3, unit size: 44
+After adding units 958848.92
+entry: 81.8, stop: 83.09, date: 15-02-25, type: 3, unit size: 44
+After adding units 955249.72
+entry: 80.51, stop: 81.8, date: 15-02-25, type: 3, unit size: 44
+After adding units 951707.28
+entry: 79.22, stop: 80.51, date: 15-02-25, type: 3, unit size: 44
+After adding units 948221.6
+entry: 77.93, stop: 79.22, date: 15-02-25, type: 3, unit size: 44
+After adding units 944792.68
+entry: 76.64, stop: 77.93, date: 15-02-25, type: 3, unit size: 44
+After adding units 941420.52
+entry: 75.35, stop: 76.64, date: 15-02-25, type: 3, unit size: 44
+After adding units 938105.12
+entry: 74.06, stop: 75.35, date: 15-02-25, type: 3, unit size: 44
+After adding units 934846.48
+entry: 72.77, stop: 74.06, date: 15-02-25, type: 3, unit size: 44
+After adding units 931644.6
+entry: 84.38, stop: 83.09, date: 15-02-25, type: 3, unit size: 44
+After removing units 935321.24
+entry: 73.15, stop: 72.12, date: 15-08-19, type: 3, unit size: 61
+After adding units 930859.09
+entry: 83.09, stop: 84.38, date: 15-02-25, type: 3, unit size: 44
+After removing units 933712.05
+entry: 80.51, stop: 81.8, date: 15-02-25, type: 3, unit size: 44
+After removing units 936565.01
+entry: 77.93, stop: 79.22, date: 15-02-25, type: 3, unit size: 44
+After removing units 939417.97
+entry: 75.35, stop: 76.64, date: 15-02-25, type: 3, unit size: 44
+After removing units 942270.93
+entry: 72.77, stop: 74.06, date: 15-02-25, type: 3, unit size: 44
+After removing units 945123.89
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 42
+After adding units 941785.73
+entry: 80.88, stop: 79.48, date: 15-10-28, type: 2, unit size: 42
+After adding units 938388.77
+entry: 82.27, stop: 80.88, date: 15-10-28, type: 2, unit size: 42
+After adding units 934933.43
+entry: 83.66, stop: 82.27, date: 15-10-28, type: 2, unit size: 42
+After adding units 931419.71
+entry: 85.05, stop: 83.66, date: 15-10-28, type: 2, unit size: 42
+After adding units 927847.61
+After removing units 930703.61
+After removing units 933559.61
+After removing units 936415.61
+After removing units 939271.61
+After removing units 942127.61
+After removing units 944983.61
+After removing units 947839.61
+After removing units 950695.61
+After removing units 953551.61
+After removing units 956407.61
+After removing units 960103.61
+After removing units 963799.61
+After removing units 967495.61
+After removing units 971191.61
+After removing units 976315.61
+After removing units 979843.61
+After removing units 983371.61
+After removing units 986899.61
+After removing units 990427.61
+After removing units 993955.61
+The final equity is 993955.61
+The percentage return is -0.604439

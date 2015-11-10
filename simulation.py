@@ -12,8 +12,9 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
-from opturtle import *
+from opturtle_v1 import *
 from strategy import *
+from utils import *
 
 EQUITY = 1000000
 

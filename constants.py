@@ -16,6 +16,8 @@
 PRECISION = 2
 
 NO_STRATEGY = "no_strategy"
+HIGH = "high"
+LOW = "low"
 
 MAX_INVENTORY_SIZE = 20
 TICK_SIZE = 0.01
