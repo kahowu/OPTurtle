@@ -23,3 +23,12 @@ if __name__ == '__main__':
 	turtle = OPTurtle (data)
 	turtle.setup()
 	create_strategy (turtle, EQUITY)
+	# tr_list = turtle.tr_list
+	# n_list = turtle.n_list
+	# x = range (len (n_list))
+	# plt.plot(x, n_list, color='r')
+	# y = range (len (tr_list))
+	# plt.plot(y, tr_list, color='g')
+	# x = range (len (price_list))
+	# plt.plot(x, price_list, color='b')
+	# plt.show()

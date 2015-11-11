@@ -1,87 +1,1306 @@
 The starting equity is 1000000
+('14-09-19', 92.699996999999996)
+False
+('14-09-22', 92.699996999999996)
+False
+('14-09-23', 88.940002000000007)
+False
+('14-09-24', 88.470000999999996)
+False
+('14-09-25', 91.089995999999999)
+False
+('14-09-26', 89.730002999999996)
+False
+('14-09-29', 89.620002999999997)
+False
+('14-09-30', 89.0)
+False
+('14-10-01', 88.699996999999996)
+False
+('14-10-02', 86.269997000000004)
+False
+('14-10-03', 88.099997999999999)
+False
+('14-10-06', 89.150002000000001)
+False
+('14-10-07', 87.949996999999996)
+False
+('14-10-08', 88.0)
+False
+('14-10-09', 88.510002)
+False
+('14-10-10', 88.25)
+False
+('14-10-13', 86.849997999999999)
+False
+('14-10-14', 85.809997999999993)
+False
+('14-10-15', 84.040001000000004)
+False
+('14-10-16', 84.980002999999996)
+False
+('14-10-17', 90.400002000000001)
+False
+('14-10-20', 88.0)
+False
+('14-10-21', 89.099997999999999)
+False
+('14-10-22', 92.25)
 entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
 After adding units 996863.5
-entry: 93.83, stop: 92.25, date: 14-10-22, type: 0, unit size: 34
-After adding units 993673.28
-entry: 95.41, stop: 93.83, date: 14-10-22, type: 0, unit size: 34
-After adding units 990429.34
-entry: 96.99, stop: 95.41, date: 14-10-22, type: 0, unit size: 34
-After adding units 987131.68
-entry: 98.57, stop: 96.99, date: 14-10-22, type: 0, unit size: 34
-After adding units 983780.3
-entry: 100.15, stop: 98.57, date: 14-10-22, type: 0, unit size: 34
-After adding units 980375.2
-entry: 101.73, stop: 100.15, date: 14-10-22, type: 0, unit size: 34
-After adding units 976916.38
-entry: 103.31, stop: 101.73, date: 14-10-22, type: 0, unit size: 34
-After adding units 973403.84
-entry: 104.89, stop: 103.31, date: 14-10-22, type: 0, unit size: 34
-After adding units 969837.58
-entry: 106.47, stop: 104.89, date: 14-10-22, type: 0, unit size: 34
-After adding units 966217.6
-entry: 84.38, stop: 83.09, date: 15-02-25, type: 3, unit size: 44
-After adding units 962504.88
-entry: 83.09, stop: 84.38, date: 15-02-25, type: 3, unit size: 44
-After adding units 958848.92
-entry: 81.8, stop: 83.09, date: 15-02-25, type: 3, unit size: 44
-After adding units 955249.72
-entry: 80.51, stop: 81.8, date: 15-02-25, type: 3, unit size: 44
-After adding units 951707.28
-entry: 79.22, stop: 80.51, date: 15-02-25, type: 3, unit size: 44
-After adding units 948221.6
-entry: 77.93, stop: 79.22, date: 15-02-25, type: 3, unit size: 44
-After adding units 944792.68
-entry: 76.64, stop: 77.93, date: 15-02-25, type: 3, unit size: 44
-After adding units 941420.52
-entry: 75.35, stop: 76.64, date: 15-02-25, type: 3, unit size: 44
-After adding units 938105.12
-entry: 74.06, stop: 75.35, date: 15-02-25, type: 3, unit size: 44
-After adding units 934846.48
-entry: 72.77, stop: 74.06, date: 15-02-25, type: 3, unit size: 44
-After adding units 931644.6
-entry: 84.38, stop: 83.09, date: 15-02-25, type: 3, unit size: 44
-After removing units 935321.24
-entry: 73.15, stop: 72.12, date: 15-08-19, type: 3, unit size: 61
-After adding units 930859.09
-entry: 83.09, stop: 84.38, date: 15-02-25, type: 3, unit size: 44
-After removing units 933712.05
-entry: 80.51, stop: 81.8, date: 15-02-25, type: 3, unit size: 44
-After removing units 936565.01
-entry: 77.93, stop: 79.22, date: 15-02-25, type: 3, unit size: 44
-After removing units 939417.97
-entry: 75.35, stop: 76.64, date: 15-02-25, type: 3, unit size: 44
-After removing units 942270.93
-entry: 72.77, stop: 74.06, date: 15-02-25, type: 3, unit size: 44
-After removing units 945123.89
-entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 42
-After adding units 941785.73
-entry: 80.88, stop: 79.48, date: 15-10-28, type: 2, unit size: 42
-After adding units 938388.77
-entry: 82.27, stop: 80.88, date: 15-10-28, type: 2, unit size: 42
-After adding units 934933.43
-entry: 83.66, stop: 82.27, date: 15-10-28, type: 2, unit size: 42
-After adding units 931419.71
-entry: 85.05, stop: 83.66, date: 15-10-28, type: 2, unit size: 42
-After adding units 927847.61
-After removing units 930703.61
-After removing units 933559.61
-After removing units 936415.61
-After removing units 939271.61
-After removing units 942127.61
-After removing units 944983.61
-After removing units 947839.61
-After removing units 950695.61
-After removing units 953551.61
-After removing units 956407.61
-After removing units 960103.61
-After removing units 963799.61
-After removing units 967495.61
-After removing units 971191.61
-After removing units 976315.61
-After removing units 979843.61
-After removing units 983371.61
-After removing units 986899.61
-After removing units 990427.61
-After removing units 993955.61
-The final equity is 993955.61
-The percentage return is -0.604439
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 993727.0
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 990590.5
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 987454.0
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 984317.5
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 981181.0
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 978044.5
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 974908.0
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 971771.5
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+After adding units 968635.0
+True
+Entry
+('14-10-23', 92.919997999999993)
+False
+('14-10-24', 95.069999999999993)
+False
+('14-10-27', 97.0)
+False
+('14-10-28', 99.839995999999999)
+False
+('14-10-29', 99.879997000000003)
+False
+('14-10-30', 98.480002999999996)
+False
+('14-10-31', 100.099998)
+False
+('14-11-03', 99.669997999999993)
+False
+('14-11-04', 100.425003)
+False
+('14-11-05', 108.480003)
+False
+('14-11-06', 109.300003)
+False
+('14-11-07', 112.93000000000001)
+False
+('14-11-10', 117.269997)
+False
+('14-11-11', 117.25)
+False
+('14-11-12', 115.050003)
+False
+('14-11-13', 119.300003)
+False
+('14-11-14', 115.05999799999999)
+False
+('14-11-17', 115.44000200000001)
+False
+('14-11-18', 114.33000200000001)
+False
+('14-11-19', 109.83000200000001)
+False
+('14-11-20', 107.80999799999999)
+False
+('14-11-21', 113.209999)
+False
+('14-11-24', 112.0)
+False
+('14-11-25', 114.94000200000001)
+False
+('14-11-26', 113.33000200000001)
+False
+('14-11-28', 113.139999)
+False
+('14-12-01', 110.019997)
+False
+('14-12-02', 107.349998)
+False
+('14-12-03', 110.400002)
+False
+('14-12-04', 110.099998)
+False
+('14-12-05', 109.599998)
+False
+('14-12-08', 105.970001)
+False
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 972237.98
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 975840.96
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 979443.94
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 983046.92
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 986649.9
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 990252.88
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 993855.86
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 997458.84
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 1001061.82
+Exit
+entry: 92.25, stop: 90.67, date: 14-10-22, type: 0, unit size: 34
+long
+After removing units 1004664.8
+('14-12-09', 102.269997)
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 1002005.78
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 999346.76
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 996687.74
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 994028.72
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 991369.7
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 988710.68
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 986051.66
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 983392.64
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 980733.62
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+After adding units 978074.6
+True
+Entry
+('14-12-10', 107.089996)
+False
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 980608.3
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 983142.0
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 985675.7
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 988209.4
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 990743.1
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 993276.8
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 995810.5
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 998344.2
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 1000877.9
+Stop
+entry: 102.27, stop: 104.1, date: 14-12-09, type: 1, unit size: 26
+short
+After removing units 1003411.6
+('14-12-11', 104.44000200000001)
+False
+('14-12-12', 104.699997)
+False
+('14-12-15', 106.389999)
+False
+('14-12-16', 103.75)
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 1000714.1
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 998016.6
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 995319.1
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 992621.6
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 989924.1
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 987226.6
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 984529.1
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 981831.6
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 979134.1
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+After adding units 976436.6
+True
+Entry
+('14-12-17', 107.110001)
+False
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 979046.74
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 981656.88
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 984267.02
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 986877.16
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 989487.3
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 992097.44
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 994707.58
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 997317.72
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 999927.86
+Stop
+entry: 103.75, stop: 105.58, date: 14-12-16, type: 1, unit size: 26
+short
+After removing units 1002538.0
+('14-12-18', 110.58000200000001)
+False
+('14-12-19', 109.93000000000001)
+False
+('14-12-22', 110.629997)
+False
+('14-12-23', 108.300003)
+False
+('14-12-24', 105.68000000000001)
+False
+('14-12-26', 105.989998)
+False
+('14-12-29', 105.949997)
+False
+('14-12-30', 105.639999)
+False
+('14-12-31', 106.459999)
+False
+('15-01-02', 104.239998)
+False
+('15-01-05', 102.760002)
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 999455.2
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 996372.4
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 993289.6
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 990206.8
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 987124.0
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 984041.2
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 980958.4
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 977875.6
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 974792.8
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+After adding units 971710.0
+True
+Entry
+('15-01-06', 101.25)
+False
+('15-01-07', 104.589996)
+False
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 974737.9
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 977765.8
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 980793.7
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 983821.6
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 986849.5
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 989877.4
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 992905.3
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 995933.2
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 998961.1
+Stop
+entry: 102.76, stop: 104.35, date: 15-01-05, type: 1, unit size: 30
+short
+After removing units 1001989.0
+('15-01-08', 102.949997)
+False
+('15-01-09', 105.239998)
+False
+('15-01-12', 103.199997)
+False
+('15-01-13', 102.589996)
+False
+('15-01-14', 99.279999000000004)
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 998812.04
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 995635.08
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 992458.12
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 989281.16
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 986104.2
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 982927.24
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 979750.28
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 976573.32
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 973396.36
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+After adding units 970219.4
+True
+Entry
+('15-01-15', 99.669997999999993)
+False
+('15-01-16', 96.089995999999999)
+False
+('15-01-20', 98.300003000000004)
+False
+('15-01-21', 100.75)
+False
+('15-01-22', 104.599998)
+False
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 973226.12
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 976232.84
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 979239.56
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 982246.28
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 985253.0
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 988259.72
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 991266.44
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 994273.16
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 997279.88
+Stop
+entry: 99.28, stop: 100.81, date: 15-01-14, type: 1, unit size: 32
+short
+After removing units 1000286.6
+('15-01-23', 104.019997)
+False
+('15-01-26', 104.400002)
+False
+('15-01-27', 102.889999)
+False
+('15-01-28', 100.300003)
+False
+('15-01-29', 90.529999000000004)
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 997480.17
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 994673.74
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 991867.31
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 989060.88
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 986254.45
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 983448.02
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 980641.59
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 977835.16
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 975028.73
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+After adding units 972222.3
+True
+Entry
+('15-01-30', 89.599997999999999)
+False
+('15-02-02', 91.129997000000003)
+False
+('15-02-03', 91.650002000000001)
+False
+('15-02-04', 90.989998)
+False
+('15-02-05', 89.580002000000007)
+False
+('15-02-06', 87.110000999999997)
+False
+('15-02-09', 85.830002000000007)
+False
+('15-02-10', 87.010002)
+False
+('15-02-11', 87.580002000000007)
+False
+('15-02-12', 85.599997999999999)
+False
+('15-02-13', 88.199996999999996)
+False
+('15-02-17', 88.779999000000004)
+False
+('15-02-18', 87.099997999999999)
+False
+('15-02-19', 86.809997999999993)
+False
+('15-02-20', 87.25)
+False
+('15-02-23', 86.510002)
+False
+('15-02-24', 85.529999000000004)
+False
+('15-02-25', 84.379997000000003)
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 968509.58
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 964796.86
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 961084.14
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 957371.42
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 953658.7
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 949945.98
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 946233.26
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 942520.54
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 938807.82
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+After adding units 935095.1
+True
+Entry
+('15-02-26', 86.919997999999993)
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 938696.06
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 942297.02
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 945897.98
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 949498.94
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 953099.9
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 956700.86
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 960301.82
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 963902.78
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 967503.74
+Stop
+entry: 84.38, stop: 85.67, date: 15-02-25, type: 3, unit size: 44
+short
+After removing units 971104.7
+('15-02-27', 85.949996999999996)
+False
+('15-03-02', 85.0)
+False
+('15-03-03', 82.949996999999996)
+False
+('15-03-04', 80.269997000000004)
+False
+('15-03-05', 85.75)
+False
+('15-03-06', 85.739998)
+False
+('15-03-09', 84.349997999999999)
+False
+('15-03-10', 81.089995999999999)
+False
+('15-03-11', 83.0)
+False
+('15-03-12', 82.099997999999999)
+False
+('15-03-13', 81.800003000000004)
+False
+('15-03-16', 82.010002)
+False
+('15-03-17', 84.010002)
+False
+('15-03-18', 83.870002999999997)
+False
+('15-03-19', 85.110000999999997)
+False
+('15-03-20', 86.330002000000007)
+False
+('15-03-23', 85.25)
+False
+('15-03-24', 84.349997999999999)
+False
+('15-03-25', 83.940002000000007)
+False
+('15-03-26', 83.199996999999996)
+False
+('15-03-27', 84.779999000000004)
+False
+('15-03-30', 85.029999000000004)
+False
+('15-03-31', 83.639999000000003)
+False
+('15-04-01', 83.370002999999997)
+False
+('15-04-02', 82.879997000000003)
+False
+('15-04-06', 82.050003000000004)
+False
+('15-04-07', 81.940002000000007)
+False
+('15-04-08', 83.300003000000004)
+False
+('15-04-09', 87.029999000000004)
+False
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 974019.63
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 976934.56
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 979849.49
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 982764.42
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 985679.35
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 988594.28
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 991509.21
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 994424.14
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 997339.07
+Exit
+entry: 90.53, stop: 92.28, date: 15-01-29, type: 1, unit size: 31
+short
+After removing units 1000254.0
+('15-04-10', 86.680000000000007)
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 995659.96
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 991065.92
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 986471.88
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 981877.84
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 977283.8
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 972689.76
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 968095.72
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 963501.68
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 958907.64
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+After adding units 954313.6
+True
+Entry
+('15-04-13', 85.160004000000001)
+False
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 958827.08
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 963340.56
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 967854.04
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 972367.52
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 976881.0
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 981394.48
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 985907.96
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 990421.44
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 994934.92
+Stop
+entry: 86.68, stop: 85.61, date: 15-04-10, type: 0, unit size: 53
+long
+After removing units 999448.4
+('15-04-14', 84.629997000000003)
+False
+('15-04-15', 85.080002000000007)
+False
+('15-04-16', 85.150002000000001)
+False
+('15-04-17', 83.080002000000007)
+False
+('15-04-20', 82.25)
+False
+('15-04-21', 82.860000999999997)
+False
+('15-04-22', 82.779999000000004)
+False
+('15-04-23', 81.879997000000003)
+False
+('15-04-24', 82.879997000000003)
+False
+('15-04-27', 85.529999000000004)
+False
+('15-04-28', 85.540001000000004)
+False
+('15-04-29', 84.059997999999993)
+False
+('15-04-30', 82.220000999999996)
+False
+('15-05-01', 81.029999000000004)
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 994505.57
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 989562.74
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 984619.91
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 979677.08
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 974734.25
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 969791.42
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 964848.59
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 959905.76
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 954962.93
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+After adding units 950020.1
+True
+Entry
+('15-05-04', 81.169997999999993)
+False
+('15-05-05', 80.440002000000007)
+False
+('15-05-06', 79.650002000000001)
+False
+('15-05-07', 88.830002000000007)
+False
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 954487.13
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 958954.16
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 963421.19
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 967888.22
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 972355.25
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 976822.28
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 981289.31
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 985756.34
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 990223.37
+Stop
+entry: 81.03, stop: 82.03, date: 15-05-01, type: 1, unit size: 61
+short
+After removing units 994690.4
+('15-05-08', 87.819999999999993)
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 990562.86
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 986435.32
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 982307.78
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 978180.24
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 974052.7
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 969925.16
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 965797.62
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 961670.08
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 957542.54
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+After adding units 953415.0
+True
+Entry
+('15-05-11', 86.699996999999996)
+False
+('15-05-12', 87.050003000000004)
+False
+('15-05-13', 87.080002000000007)
+False
+('15-05-14', 87.739998)
+False
+('15-05-15', 88.510002)
+False
+('15-05-18', 87.610000999999997)
+False
+('15-05-19', 86.989998)
+False
+('15-05-20', 88.139999000000003)
+False
+('15-05-21', 91.349997999999999)
+False
+('15-05-22', 94.279999000000004)
+False
+('15-05-26', 93.650002000000001)
+False
+('15-05-27', 92.220000999999996)
+False
+('15-05-28', 91.690002000000007)
+False
+('15-05-29', 91.349997999999999)
+False
+('15-06-01', 90.089995999999999)
+False
+('15-06-02', 90.550003000000004)
+False
+('15-06-03', 90.510002)
+False
+('15-06-04', 90.709998999999996)
+False
+('15-06-05', 90.459998999999996)
+False
+('15-06-08', 90.650002000000001)
+False
+('15-06-09', 88.040001000000004)
+False
+('15-06-10', 87.699996999999996)
+False
+('15-06-11', 89.029999000000004)
+False
+('15-06-12', 87.419997999999993)
+False
+('15-06-15', 86.300003000000004)
+False
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 957471.1
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 961527.2
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 965583.3
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 969639.4
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 973695.5
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 977751.6
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 981807.7
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 985863.8
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 989919.9
+Stop
+entry: 87.82, stop: 86.64, date: 15-05-08, type: 2, unit size: 47
+long
+After removing units 993976.0
+('15-06-16', 86.002998000000005)
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 988902.0
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 983828.0
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 978754.0
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 973680.0
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 968606.0
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 963532.0
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 958458.0
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 953384.0
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 948310.0
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+After adding units 943236.0
+True
+Entry
+('15-06-17', 86.580002000000007)
+False
+('15-06-18', 86.970000999999996)
+False
+('15-06-19', 86.510002)
+False
+('15-06-22', 86.069999999999993)
+False
+('15-06-23', 85.980002999999996)
+False
+('15-06-24', 85.163002000000006)
+False
+('15-06-25', 85.470000999999996)
+False
+('15-06-26', 84.629997000000003)
+False
+('15-06-29', 83.279999000000004)
+False
+('15-06-30', 82.580002000000007)
+False
+('15-07-01', 82.599997999999999)
+False
+('15-07-02', 82.120002999999997)
+False
+('15-07-06', 80.559997999999993)
+False
+('15-07-07', 79.449996999999996)
+False
+('15-07-08', 76.580002000000007)
+False
+('15-07-09', 80.930000000000007)
+False
+('15-07-10', 81.129997000000003)
+False
+('15-07-13', 80.919997999999993)
+False
+('15-07-14', 81.580002000000007)
+False
+('15-07-15', 80.900002000000001)
+False
+('15-07-16', 81.389999000000003)
+False
+('15-07-17', 81.989998)
+False
+('15-07-20', 83.559997999999993)
+False
+('15-07-21', 83.110000999999997)
+False
+('15-07-22', 82.160004000000001)
+False
+('15-07-23', 84.660004000000001)
+False
+('15-07-24', 85.169997999999993)
+False
+('15-07-27', 80.849997999999999)
+False
+('15-07-28', 80.669997999999993)
+False
+('15-07-29', 80.980002999999996)
+False
+('15-07-30', 80.110000999999997)
+False
+('15-07-31', 79.849997999999999)
+False
+('15-08-03', 78.199996999999996)
+False
+('15-08-04', 78.069999999999993)
+False
+('15-08-05', 79.589995999999999)
+False
+('15-08-06', 79.849997999999999)
+False
+('15-08-07', 79.650002000000001)
+False
+('15-08-10', 79.860000999999997)
+False
+('15-08-11', 79.481003000000001)
+False
+('15-08-12', 72.319999999999993)
+False
+('15-08-13', 74.0)
+False
+('15-08-14', 74.529999000000004)
+False
+('15-08-17', 74.849997999999999)
+False
+('15-08-18', 74.050003000000004)
+False
+('15-08-19', 73.150002000000001)
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 938700.7
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 934165.4
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 929630.1
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 925094.8
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 920559.5
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 916024.2
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 911488.9
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 906953.6
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 902418.3
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+After adding units 897883.0
+True
+Entry
+('15-08-20', 71.980002999999996)
+('15-08-21', 69.319999999999993)
+('15-08-24', 58.159999999999997)
+('15-08-25', 68.839995999999999)
+('15-08-26', 68.949996999999996)
+('15-08-27', 70.839995999999999)
+('15-08-28', 69.680000000000007)
+('15-08-31', 69.180000000000007)
+('15-09-01', 64.379997000000003)
+('15-09-02', 65.690002000000007)
+('15-09-03', 65.820999)
+('15-09-04', 65.404999000000004)
+('15-09-08', 65.779999000000004)
+('15-09-09', 62.729999999999997)
+('15-09-10', 63.520000000000003)
+('15-09-11', 63.369999)
+('15-09-14', 62.549999)
+('15-09-15', 61.450001)
+('15-09-16', 65.610000999999997)
+('15-09-17', 66.410004000000001)
+('15-09-18', 65.400002000000001)
+('15-09-21', 65.379997000000003)
+('15-09-22', 62.939999)
+('15-09-23', 61.959998999999996)
+('15-09-24', 59.419998)
+('15-09-25', 60.630001)
+('15-09-28', 58.810001)
+('15-09-29', 57.299999)
+('15-09-30', 58.869999)
+('15-10-01', 59.5)
+('15-10-02', 58.360001000000004)
+('15-10-05', 63.470001000000003)
+('15-10-06', 63.720001000000003)
+('15-10-07', 64.839995999999999)
+('15-10-08', 66.040001000000004)
+('15-10-09', 67.699996999999996)
+('15-10-12', 69.639999000000003)
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 903922.24
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 909961.48
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 916000.72
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 922039.96
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 928079.2
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 934118.44
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 940157.68
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 946196.92
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 952236.16
+Exit
+entry: 86.0, stop: 86.98, date: 15-06-16, type: 1, unit size: 59
+short
+After removing units 958275.4
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 963028.32
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 967781.24
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 972534.16
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 977287.08
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 982040.0
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 986792.92
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 991545.84
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 996298.76
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 1001051.68
+Exit
+entry: 73.15, stop: 74.19, date: 15-08-19, type: 3, unit size: 62
+short
+After removing units 1005804.6
+('15-10-13', 69.489998)
+False
+('15-10-14', 69.5)
+False
+('15-10-15', 69.339995999999999)
+False
+('15-10-16', 72.5)
+False
+('15-10-19', 71.800003000000004)
+False
+('15-10-20', 72.989998)
+False
+('15-10-21', 71.790001000000004)
+False
+('15-10-22', 70.160004000000001)
+False
+('15-10-23', 73.980002999999996)
+False
+('15-10-26', 75.440002000000007)
+False
+('15-10-27', 76.349997999999999)
+False
+('15-10-28', 79.480002999999996)
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 1002228.0
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 998651.4
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 995074.8
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 991498.2
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 987921.6
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 984345.0
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 980768.4
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 977191.8
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 973615.2
+entry: 79.48, stop: 78.09, date: 15-10-28, type: 2, unit size: 45
+After adding units 970038.6
+True
+Entry
+('15-10-29', 81.970000999999996)
+False
+('15-10-30', 82.699996999999996)
+False
+('15-11-02', 83.519997000000004)
+False
+('15-11-03', 84.0)
+False
+long
+After removing units 973818.6
+long
+After removing units 977598.6
+long
+After removing units 981378.6
+long
+After removing units 985158.6
+long
+After removing units 988938.6
+long
+After removing units 992718.6
+long
+After removing units 996498.6
+long
+After removing units 1000278.6
+long
+After removing units 1004058.6
+long
+After removing units 1007838.6
+The final equity is 1007838.6
+The percentage return is 0.78386

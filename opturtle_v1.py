@@ -56,13 +56,20 @@ class Portfolio:
 
 
 	def remove_unit (self, entry_obj, exit_price):
+		total = 0 
 		if (entry_obj.strategy_type == SYS_1_LONG) or (entry_obj.strategy_type == SYS_1_SHORT):
 			self.sys_1_entries -= 1
 		else:
 			self.sys_2_entries -= 1
 
-		total_price = exit_price * entry_obj.unit_size
-		new_equity = round((self.equity + total_price), PRECISION)
+		if (entry_obj.strategy_type == SYS_1_LONG) or (entry_obj.strategy_type == SYS_2_LONG):
+			print "long"
+			total = exit_price * entry_obj.unit_size
+		else:
+			print "short"
+			total = (2 * entry_obj.entry_price - exit_price) * entry_obj.unit_size
+
+		new_equity = round((self.equity + total), PRECISION)
 		print "After removing units " + str(new_equity)
 		self.update_equity (new_equity)
 		self.inventory.remove (entry_obj)
@@ -79,6 +86,7 @@ class OPTurtle:
 		self.dates = []
 		self.data_size = len (data)
 		self.bo_dict = dict()
+		self.equity_percentage = 0.01 
 
 	def setup (self):
 		self.create_date_dict ()
@@ -94,7 +102,7 @@ class OPTurtle:
 
 	# Volatility Adjusted Position Units
 	def vadj_unit (self, equity, dv):
-		one_percent = equity * 0.01
+		one_percent = equity * self.equity_percentage
 		unit = one_percent / dv
 		return int(math.floor (unit))
 
@@ -270,6 +278,7 @@ class OPTurtle:
 		curr_idx = date_dict[curr_date]
 		row = data.iloc[curr_idx - exit_type: curr_idx] #
 		lowest = min(row ["Close"])
+		# print lowest
 		if curr_price < lowest:
 			return True
 		return False
@@ -350,10 +359,10 @@ class OPTurtle:
 
 	def should_stop (self, entry, curr_price):
 		strategy_type = entry.strategy_type
-		if strategy_type == LONG:
+		if (strategy_type == SYS_1_LONG) or (strategy_type == SYS_2_LONG):
 			# If current price is lower or equal to stop price, stop
 			return (entry.stop_price >= curr_price)
-		elif strategy_type == SHORT:
+		elif (strategy_type == SYS_1_SHORT) or (strategy_type == SYS_2_SHORT):
 			# If current price is greater or equal to stop price, stop
 			return (entry.stop_price <= curr_price)
 
