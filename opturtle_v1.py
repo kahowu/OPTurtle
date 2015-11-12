@@ -12,6 +12,7 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
+from __future__ import division
 import math 
 import pandas as pd
 import numpy as np
@@ -41,6 +42,7 @@ class Portfolio:
 		self.sys_1_entries = 0 
 		self.sys_2_entries = 0
 		self.inv_size = 0
+		self.notional_equity = equity
 
 	def add_unit (self, entry_obj):
 		if (entry_obj.strategy_type == SYS_1_LONG) or (entry_obj.strategy_type == SYS_1_SHORT):
@@ -108,7 +110,7 @@ class OPTurtle:
 
 	def get_unit_size (self, curr_price, curr_N, portfolio):
 		dv = self.dollar_volatility (curr_price, curr_N)
-		unit_size = self.vadj_unit (portfolio.equity, dv)
+		unit_size = self.vadj_unit (portfolio.notional_equity, dv)
 		return unit_size
 
 	def create_date_dict (self):

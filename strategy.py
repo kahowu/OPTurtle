@@ -12,6 +12,7 @@
 # ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF
 # OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
+from __future__ import division
 from opturtle_v1 import *
 from constants import *
 import matplotlib.pyplot as plt
@@ -143,39 +144,47 @@ def create_strategy (turtle, equity):
 			equity_list.append (portfolio.equity)
 			
 		# Check current price againt each item in the inventory
-		if not added_entry:
-			for entry in list(inventory):
-				if turtle.should_stop (entry, curr_price):
-					print "Stop"
-					print_entry (entry)
-					portfolio.remove_unit (entry, curr_price)
-					continue 
+		# if not added_entry:
+		for entry in list(inventory):
+			if turtle.should_stop (entry, curr_price):
+				print "Stop"
+				print_entry (entry)
+				portfolio.remove_unit (entry, curr_price)
+				continue 
 
-				if turtle.should_exit (entry, curr_price, curr_date, SYS_2_EXIT):
-					print "Exit"
-					print_entry (entry)
-					portfolio.remove_unit (entry, curr_price)
+			if turtle.should_exit (entry, curr_price, curr_date, SYS_2_EXIT):
+				print "Exit"
+				print_entry (entry)
+				portfolio.remove_unit (entry, curr_price)
 
-				equity_list.append (portfolio.equity)
+			equity_list.append (portfolio.equity)
 
 		curr_idx += 1 
+
+		# Naive implementation: evaluate whether we should increase or decrease equity percentage traded
+		if not inventory:
+			current_equity = portfolio.equity
+			notional_equity = portfolio.notional_equity 
+			print current_equity, notional_equity
+			balance = (current_equity - notional_equity) / notional_equity 
+			curr_percentage = turtle.equity_percentage
+			# if balance < 0:
+			# 	balance = balance / 2
+			new_percentage = curr_percentage + balance
+			if new_percentage < 0.01:
+				turtle.equity_percentage = 0.01
+			else:
+				turtle.equity_percentage = min (new_percentage, 0.20)
+			print turtle.equity_percentage
+			portfolio.notional_equity = current_equity
 
 	for entry in list(inventory):
 		portfolio.remove_unit(entry, curr_price)
 
+	print "Clear out inventory at the end of available trading days"
 	print "The final equity is " + str(portfolio.equity)
 	percentage_return = (portfolio.equity - equity) / equity
 	print "The percentage return is " + str(percentage_return * 100) 
-
-	# x = range (len (unit_size_list))
-	# plt.plot(x, unit_size_list)
-	# plt.show()
-
-	# x = range (len (equity_list))
-	# plt.plot(x, equity_list)
-	# plt.show()
-
-	return price_list
 
 
 def print_entry (entry):
