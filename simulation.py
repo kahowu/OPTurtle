@@ -16,10 +16,22 @@ from opturtle_v1 import *
 from strategy import *
 from utils import *
 
-EQUITY = 1000000
-
 if __name__ == '__main__':
 	data = read_data (sys.argv)
 	turtle = OPTurtle (data)
 	turtle.setup()
 	create_strategy (turtle, EQUITY)
+	# bo_dict = turtle.bo_dict
+
+	# for key, value in bo_dict.items():
+	# 	print key
+	# 	print "Entry date: {0}, Entry price: {1}, Strategy type: {2}, Is loser: {3}".format (value.entry_date, value.entry_price, value.strategy_type, value.is_loser)
+	# tr_list = turtle.tr_list
+	# n_list = turtle.n_list
+	# x = range (len (n_list))
+	# plt.plot(x, n_list, color='r')
+	# y = range (len (tr_list))
+	# plt.plot(y, tr_list, color='g')
+	# x = range (len (price_list))
+	# plt.plot(x, price_list, color='b')
+	# plt.show()

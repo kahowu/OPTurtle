@@ -1,0 +1,114 @@
+257
+Entry date: 15-09-28, Entry price: 58.810001, Strategy type: 5, Is loser: False
+258
+Entry date: 15-09-29, Entry price: 57.299999, Strategy type: 5, Is loser: False
+138
+Entry date: 15-04-09, Entry price: 87.029999, Strategy type: 4, Is loser: True
+139
+Entry date: 15-04-10, Entry price: 86.68, Strategy type: 4, Is loser: True
+271
+Entry date: 15-10-16, Entry price: 72.5, Strategy type: 4, Is loser: False
+273
+Entry date: 15-10-20, Entry price: 72.989998, Strategy type: 4, Is loser: False
+276
+Entry date: 15-10-23, Entry price: 73.980003, Strategy type: 4, Is loser: False
+23
+Entry date: 14-10-22, Entry price: 92.25, Strategy type: 4, Is loser: False
+24
+Entry date: 14-10-23, Entry price: 92.919998, Strategy type: 4, Is loser: False
+25
+Entry date: 14-10-24, Entry price: 95.07, Strategy type: 4, Is loser: False
+26
+Entry date: 14-10-27, Entry price: 97.0, Strategy type: 4, Is loser: False
+27
+Entry date: 14-10-28, Entry price: 99.839996, Strategy type: 4, Is loser: False
+28
+Entry date: 14-10-29, Entry price: 99.879997, Strategy type: 4, Is loser: False
+154
+Entry date: 15-05-01, Entry price: 81.029999, Strategy type: 5, Is loser: True
+30
+Entry date: 14-10-31, Entry price: 100.099998, Strategy type: 4, Is loser: False
+159
+Entry date: 15-05-08, Entry price: 87.82, Strategy type: 4, Is loser: False
+33
+Entry date: 14-11-05, Entry price: 108.480003, Strategy type: 4, Is loser: False
+34
+Entry date: 14-11-06, Entry price: 109.300003, Strategy type: 4, Is loser: False
+35
+Entry date: 14-11-07, Entry price: 112.93, Strategy type: 4, Is loser: False
+36
+Entry date: 14-11-10, Entry price: 117.269997, Strategy type: 4, Is loser: False
+39
+Entry date: 14-11-13, Entry price: 119.300003, Strategy type: 4, Is loser: False
+168
+Entry date: 15-05-21, Entry price: 91.349998, Strategy type: 4, Is loser: False
+156
+Entry date: 15-05-05, Entry price: 80.440002, Strategy type: 5, Is loser: True
+158
+Entry date: 15-05-07, Entry price: 88.830002, Strategy type: 4, Is loser: False
+55
+Entry date: 14-12-08, Entry price: 105.970001, Strategy type: 5, Is loser: True
+56
+Entry date: 14-12-09, Entry price: 102.269997, Strategy type: 5, Is loser: True
+185
+Entry date: 15-06-16, Entry price: 86.002998, Strategy type: 5, Is loser: True
+61
+Entry date: 14-12-16, Entry price: 103.75, Strategy type: 5, Is loser: True
+279
+Entry date: 15-10-28, Entry price: 79.480003, Strategy type: 4, Is loser: False
+193
+Entry date: 15-06-26, Entry price: 84.629997, Strategy type: 5, Is loser: True
+267
+Entry date: 15-10-12, Entry price: 69.639999, Strategy type: 4, Is loser: False
+198
+Entry date: 15-07-06, Entry price: 80.559998, Strategy type: 5, Is loser: True
+199
+Entry date: 15-07-07, Entry price: 79.449997, Strategy type: 5, Is loser: True
+200
+Entry date: 15-07-08, Entry price: 76.580002, Strategy type: 5, Is loser: True
+73
+Entry date: 15-01-05, Entry price: 102.760002, Strategy type: 5, Is loser: True
+162
+Entry date: 15-05-13, Entry price: 87.080002, Strategy type: 4, Is loser: False
+80
+Entry date: 15-01-14, Entry price: 99.279999, Strategy type: 5, Is loser: True
+184
+Entry date: 15-06-15, Entry price: 86.300003, Strategy type: 5, Is loser: True
+82
+Entry date: 15-01-16, Entry price: 96.089996, Strategy type: 5, Is loser: True
+163
+Entry date: 15-05-14, Entry price: 87.739998, Strategy type: 4, Is loser: False
+164
+Entry date: 15-05-15, Entry price: 88.510002, Strategy type: 4, Is loser: False
+90
+Entry date: 15-01-29, Entry price: 90.529999, Strategy type: 5, Is loser: True
+91
+Entry date: 15-01-30, Entry price: 89.599998, Strategy type: 5, Is loser: True
+225
+Entry date: 15-08-12, Entry price: 72.32, Strategy type: 5, Is loser: False
+100
+Entry date: 15-02-12, Entry price: 85.599998, Strategy type: 5, Is loser: False
+230
+Entry date: 15-08-19, Entry price: 73.150002, Strategy type: 5, Is loser: False
+231
+Entry date: 15-08-20, Entry price: 71.980003, Strategy type: 5, Is loser: False
+232
+Entry date: 15-08-21, Entry price: 69.32, Strategy type: 5, Is loser: False
+233
+Entry date: 15-08-24, Entry price: 58.16, Strategy type: 5, Is loser: False
+108
+Entry date: 15-02-25, Entry price: 84.379997, Strategy type: 5, Is loser: True
+239
+Entry date: 15-09-01, Entry price: 64.379997, Strategy type: 5, Is loser: False
+112
+Entry date: 15-03-03, Entry price: 82.949997, Strategy type: 5, Is loser: True
+113
+Entry date: 15-03-04, Entry price: 80.269997, Strategy type: 5, Is loser: True
+117
+Entry date: 15-03-10, Entry price: 81.089996, Strategy type: 5, Is loser: True
+169
+Entry date: 15-05-22, Entry price: 94.279999, Strategy type: 4, Is loser: False
+281
+Entry date: 15-10-30, Entry price: 82.699997, Strategy type: 4, Is loser: False
+255
+Entry date: 15-09-24, Entry price: 59.419998, Strategy type: 5, Is loser: False
