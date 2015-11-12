@@ -110,7 +110,7 @@ class OPTurtle:
 
 	def get_unit_size (self, curr_price, curr_N, portfolio):
 		dv = self.dollar_volatility (curr_price, curr_N)
-		unit_size = self.vadj_unit (portfolio.notional_equity, dv)
+		unit_size = self.vadj_unit (portfolio.equity, dv)
 		return unit_size
 
 	def create_date_dict (self):
